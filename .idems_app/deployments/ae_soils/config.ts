@@ -7,8 +7,8 @@ const config: IDeploymentConfig = {
   name: "ae_soils",
   app_constants,
   google_drive: {
-    sheets_folder_id: "1L-9KCMDB-ndNcj8Jp10mBX6ENkC9EcY6",
-    assets_folder_id: "1JrorEwpf4ItFvkVF5KqWhlBnN_5I4LVl",
+    sheets_folder_id: "1oHUHuZBh1Hi4TaSkZik5vnJxWtisSqRR",
+    assets_folder_id: "1FeuS7TDJQJlYpIXGki7vOdr3TaMjIdWj",
   },
 };
 
