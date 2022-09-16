@@ -60,6 +60,14 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 5.1,
     md5Checksum: "d5b741db3de91f7c2294abb404f3f275",
   },
+  "ae_principles/CIDSE/connectivity.png": {
+    size_kb: 632.2,
+    md5Checksum: "0e775fa1236d39ef9a8a60be6b79bbb8",
+  },
+  "ae_principles/CIDSE/recycling.png": {
+    size_kb: 1095.8,
+    md5Checksum: "49956d7eebdad3a8caefb50414e7cf80",
+  },
   "ae_principles/FAO/circular_and_solidarity_economy.png": {
     size_kb: 9.4,
     md5Checksum: "55e158fbf56c882b4d80448c26d42287",
@@ -155,6 +163,30 @@ export const ASSETS_CONTENTS_LIST = {
   "ae_principles/IFA/IFA_youth.png": {
     size_kb: 434.8,
     md5Checksum: "57c01af46bdded7e7b6efaea164d2b5b",
+  },
+  "ae_principles/community.png": {
+    size_kb: 400.2,
+    md5Checksum: "4c34e0a105a15497f016e36618d530c1",
+  },
+  "ae_principles/connectivity.png": {
+    size_kb: 632.2,
+    md5Checksum: "0e775fa1236d39ef9a8a60be6b79bbb8",
+  },
+  "ae_principles/diversity.png": {
+    size_kb: 496.8,
+    md5Checksum: "09cd7aa44e1885f26ad23e359078eee2",
+  },
+  "ae_principles/efficiency.png": {
+    size_kb: 634.6,
+    md5Checksum: "e73982de7dea2212ff621b93c9a82af7",
+  },
+  "ae_principles/food_culture.png": {
+    size_kb: 513.9,
+    md5Checksum: "de6f7613bfc34620a3023754880501c3",
+  },
+  "ae_principles/recycling.png": {
+    size_kb: 1095.8,
+    md5Checksum: "49956d7eebdad3a8caefb50414e7cf80",
   },
   "full/00098909911c90b53746767e94238b90a42c3f3f.jpg": {
     size_kb: 231.4,
@@ -4237,8 +4269,8 @@ export const ASSETS_CONTENTS_LIST = {
     md5Checksum: "47145b595d5b9d5327cece05a2979e3d",
   },
   "nutrition/Untitled document.docx": {
-    size_kb: 6.1,
-    md5Checksum: "e20ed602ce9b9062f99c300035cfaed1",
+    size_kb: 6,
+    md5Checksum: "d95106f058c2d5d065db0ceafef88c4f",
   },
   "nutrition/Water.png": {
     size_kb: 116.1,

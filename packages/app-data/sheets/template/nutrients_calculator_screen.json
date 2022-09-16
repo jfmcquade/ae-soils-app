@@ -83,10 +83,10 @@
           "trigger": "click",
           "action_id": "go_to",
           "args": [
-            "height_weight_calculator"
+            "hw_calculator_input"
           ],
-          "_raw": "click | go_to: height_weight_calculator",
-          "_cleaned": "click | go_to: height_weight_calculator"
+          "_raw": "click | go_to: hw_calculator_input",
+          "_cleaned": "click | go_to: hw_calculator_input"
         }
       ],
       "_nested_name": "button_height_weight_calculator"

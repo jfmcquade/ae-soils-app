@@ -1,0 +1,17 @@
+{
+  "flow_type": "template",
+  "flow_name": "hw_calculator_result",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "this is the result",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ],
+  "_xlsxPath": "templates/global/nutrition_templates.xlsx"
+}

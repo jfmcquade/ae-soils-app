@@ -142,6 +142,12 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "library_plants",
       _xlsxPath: "data_lists/pests/pests_data_lists.xlsx",
     },
+    library_principles: {
+      flow_type: "data_list",
+      flow_name: "library_principles",
+      data_list_name: "library_principles",
+      _xlsxPath: "data_lists/homepage/library_data_list.xlsx",
+    },
     nutrients: {
       flow_type: "data_list",
       flow_name: "nutrients",
@@ -714,6 +720,16 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "home_screen",
       _xlsxPath: "templates/global/navigation.xlsx",
     },
+    hw_calculator_input: {
+      flow_type: "template",
+      flow_name: "hw_calculator_input",
+      _xlsxPath: "templates/global/nutrition_templates.xlsx",
+    },
+    hw_calculator_result: {
+      flow_type: "template",
+      flow_name: "hw_calculator_result",
+      _xlsxPath: "templates/global/nutrition_templates.xlsx",
+    },
     individual_need: {
       flow_type: "template",
       flow_name: "individual_need",
@@ -722,6 +738,11 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
     lib_pest: {
       flow_type: "template",
       flow_name: "lib_pest",
+      _xlsxPath: "templates/global/library.xlsx",
+    },
+    lib_plant: {
+      flow_type: "template",
+      flow_name: "lib_plant",
       _xlsxPath: "templates/global/library.xlsx",
     },
     library_collection: {
