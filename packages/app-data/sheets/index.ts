@@ -196,10 +196,10 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "residue_additions_kp_soils",
       _xlsxPath: "data_lists/soils/soils_health.xlsx",
     },
-    soil_health_support_slides: {
+    soil_hlth_suppt_slides: {
       flow_type: "data_list",
-      flow_name: "soil_health_support_slides",
-      data_list_name: "soil_health_support_slides",
+      flow_name: "soil_hlth_suppt_slides",
+      data_list_name: "soil_hlth_suppt_slides",
       _xlsxPath: "data_lists/soils/soils_health.xlsx",
     },
     soil_seals_and_crusts_kp_soils: {
@@ -709,6 +709,11 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "food_types_screen",
       _xlsxPath: "templates/global/nutrition_templates.xlsx",
     },
+    height_weight_calculator: {
+      flow_type: "template",
+      flow_name: "height_weight_calculator",
+      _xlsxPath: "templates/global/nutrition_templates.xlsx",
+    },
     home_screen: {
       flow_type: "template",
       flow_name: "home_screen",
@@ -744,9 +749,14 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "nutrient",
       _xlsxPath: "templates/global/nutrition_templates.xlsx",
     },
-    nutrients_caluclator_screen: {
+    nutrients_calculator_screen: {
       flow_type: "template",
-      flow_name: "nutrients_caluclator_screen",
+      flow_name: "nutrients_calculator_screen",
+      _xlsxPath: "templates/global/nutrition_templates.xlsx",
+    },
+    nutrients_screen: {
+      flow_type: "template",
+      flow_name: "nutrients_screen",
       _xlsxPath: "templates/global/nutrition_templates.xlsx",
     },
     nutrition_screen: {

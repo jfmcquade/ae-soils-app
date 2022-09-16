@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "nutrients_caluclator_screen",
+  "flow_name": "nutrients_calculator_screen",
   "status": "released",
   "rows": [
     {

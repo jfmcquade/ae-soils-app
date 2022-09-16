@@ -733,7 +733,6 @@
       "_translations": {
         "value": {}
       },
-      "condition": false,
       "_nested_name": "subtitle",
       "_dynamicFields": {
         "value": [
@@ -754,7 +753,6 @@
     {
       "type": "display_group",
       "name": "tiles",
-      "condition": false,
       "parameter_list": {
         "style": "parent_point"
       },
@@ -762,20 +760,17 @@
         {
           "type": "items",
           "value": "@data.library_plant_pests",
-          "condition": false,
           "rows": [
             {
               "type": "display_group",
               "name": "host_plant_check",
-              "condition": false,
               "rows": [
                 {
                   "type": "tile_component",
                   "name": "tile_@item.id",
-                  "condition": false,
                   "parameter_list": {
                     "first_line_text": "@item.name",
-                    "style": "image_text",
+                    "style": "workshop_page",
                     "icon_src": "@item.image_1"
                   },
                   "_nested_name": "tiles.items.host_plant_check.tile_@item.id",

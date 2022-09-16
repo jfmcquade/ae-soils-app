@@ -4216,6 +4216,34 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 39.4,
     md5Checksum: "7a9836027993f71cbd19a871e16fe450",
   },
+  "nutrition/Diets deficient in iron.png": {
+    size_kb: 151.3,
+    md5Checksum: "f6acfd3bc290a6af1d8ae6244b526a2c",
+  },
+  "nutrition/Elderly.png": {
+    size_kb: 45.9,
+    md5Checksum: "339bf23e12569ae8ba5fd5ccfa16fe1e",
+  },
+  "nutrition/Milk.png": {
+    size_kb: 139.2,
+    md5Checksum: "d10105c3bf0346adc8dec779883a6c1d",
+  },
+  "nutrition/Mursik.png": {
+    size_kb: 240.7,
+    md5Checksum: "e1df009e91c1685ecb5f750dba6726b8",
+  },
+  "nutrition/Uji.png": {
+    size_kb: 199.3,
+    md5Checksum: "47145b595d5b9d5327cece05a2979e3d",
+  },
+  "nutrition/Untitled document.docx": {
+    size_kb: 6,
+    md5Checksum: "b373d3a46408d3fa7b1282b0f3f6a013",
+  },
+  "nutrition/Water.png": {
+    size_kb: 116.1,
+    md5Checksum: "0e3d8f88f630fc477fa4e916e240e88b",
+  },
   "nutrition/chart_iron.png": {
     size_kb: 36.3,
     md5Checksum: "e656056be5e51ecaef2d551b8fa8bce6",
@@ -4227,14 +4255,6 @@ export const ASSETS_CONTENTS_LIST = {
   "nutrition/chart_zinc.png": {
     size_kb: 56.1,
     md5Checksum: "074286a8637dfd707a728ddc4212c768",
-  },
-  "nutrition/Diets deficient in iron.png": {
-    size_kb: 151.3,
-    md5Checksum: "f6acfd3bc290a6af1d8ae6244b526a2c",
-  },
-  "nutrition/Elderly.png": {
-    size_kb: 45.9,
-    md5Checksum: "339bf23e12569ae8ba5fd5ccfa16fe1e",
   },
   "nutrition/food_for_children.png": {
     size_kb: 170.3,
@@ -4264,14 +4284,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 285.1,
     md5Checksum: "4c6b7a5560f146e5a855aa3826b3daa8",
   },
-  "nutrition/Milk.png": {
-    size_kb: 139.2,
-    md5Checksum: "d10105c3bf0346adc8dec779883a6c1d",
-  },
-  "nutrition/Mursik.png": {
-    size_kb: 240.7,
-    md5Checksum: "e1df009e91c1685ecb5f750dba6726b8",
-  },
   "nutrition/nutrition icon.png": {
     size_kb: 247.8,
     md5Checksum: "f459a3cfe4086743bb98e4be27201e6e",
@@ -4283,18 +4295,6 @@ export const ASSETS_CONTENTS_LIST = {
   "nutrition/super_nutritious_new_crops.png": {
     size_kb: 196.2,
     md5Checksum: "257843f7a3360d72bb77f34b7052fbc4",
-  },
-  "nutrition/Uji.png": {
-    size_kb: 199.3,
-    md5Checksum: "47145b595d5b9d5327cece05a2979e3d",
-  },
-  "nutrition/Untitled document.docx": {
-    size_kb: 6.1,
-    md5Checksum: "3127933632f51b3277fbf17b03290efa",
-  },
-  "nutrition/Water.png": {
-    size_kb: 116.1,
-    md5Checksum: "0e3d8f88f630fc477fa4e916e240e88b",
   },
   "pests/ants_beneficials_1.png": {
     size_kb: 61.3,
@@ -4324,13 +4324,13 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 141.6,
     md5Checksum: "bf024d265433f40e8df5b275e1dd4927",
   },
-  "pests/flowers_on_margins_of_fields.PNG": {
-    size_kb: 166.3,
-    md5Checksum: "abe410c5e184e52ecde78d7cceca43fc",
-  },
   "pests/flower_strips_on_the_edges.png": {
     size_kb: 638.1,
     md5Checksum: "f8f094cf2a37d460143f6e3a0483ddf9",
+  },
+  "pests/flowers_on_margins_of_fields.PNG": {
+    size_kb: 166.3,
+    md5Checksum: "abe410c5e184e52ecde78d7cceca43fc",
   },
   "pests/food_crops_with_flowers.png": {
     size_kb: 1174.1,
@@ -4428,6 +4428,10 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 74.8,
     md5Checksum: "9ea9c385a1391a98e61ae8be472367d7",
   },
+  "pests/spider_predators.png": {
+    size_kb: 147.9,
+    md5Checksum: "421821c1706c78c3bd812caec1160915",
+  },
   "pests/spidermite_1.png": {
     size_kb: 272.3,
     md5Checksum: "6ce289869e7e13bf81982497a215401d",
@@ -4435,10 +4439,6 @@ export const ASSETS_CONTENTS_LIST = {
   "pests/spidermite_2.png": {
     size_kb: 50.3,
     md5Checksum: "2f228818f90ffb22e23c4ea30c1ef83c",
-  },
-  "pests/spider_predators.png": {
-    size_kb: 147.9,
-    md5Checksum: "421821c1706c78c3bd812caec1160915",
   },
   "pests/thrips.png": {
     size_kb: 95.1,
@@ -6168,13 +6168,13 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 25.9,
     md5Checksum: "6e5009eb90710e2d5c4462ee336bfbba",
   },
-  "soils/healthy_soils_colour.JPG": {
-    size_kb: 28.2,
-    md5Checksum: "48100c6968f12a39db310bf7dffa9bed",
-  },
   "soils/healthy_soil_structure.jpg": {
     size_kb: 30.9,
     md5Checksum: "983c50616a46707ad492aefad6dcf8ac",
+  },
+  "soils/healthy_soils_colour.JPG": {
+    size_kb: 28.2,
+    md5Checksum: "48100c6968f12a39db310bf7dffa9bed",
   },
   "soils/high_erosion.png": {
     size_kb: 74.3,
@@ -6288,6 +6288,18 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 26.7,
     md5Checksum: "9adcd04d7a06a2a561d6eea66242c289",
   },
+  "soils/soil_animals_combined.JPG": {
+    size_kb: 47.9,
+    md5Checksum: "eb414a7e599ca3d732e62fe777acb1c4",
+  },
+  "soils/soil_residue_rodale instit.JPG": {
+    size_kb: 42.8,
+    md5Checksum: "9b0a480bc917b3277e8464ec39891d1e",
+  },
+  "soils/soil_seals_and_crusts.JPG": {
+    size_kb: 21.1,
+    md5Checksum: "1d85725307ad48483ac738187a658bd9",
+  },
   "soils/soilanimals_combined.jpg": {
     size_kb: 71,
     md5Checksum: "c76868eadaff5384ea45f837936dbd8a",
@@ -6311,18 +6323,6 @@ export const ASSETS_CONTENTS_LIST = {
   "soils/soils_icon.png": {
     size_kb: 443.8,
     md5Checksum: "485a118478e7eb311621f2461e2c1f95",
-  },
-  "soils/soil_animals_combined.JPG": {
-    size_kb: 47.9,
-    md5Checksum: "eb414a7e599ca3d732e62fe777acb1c4",
-  },
-  "soils/soil_residue_rodale instit.JPG": {
-    size_kb: 42.8,
-    md5Checksum: "9b0a480bc917b3277e8464ec39891d1e",
-  },
-  "soils/soil_seals_and_crusts.JPG": {
-    size_kb: 21.1,
-    md5Checksum: "1d85725307ad48483ac738187a658bd9",
   },
   "soils/unhealthy_soils_colour.JPG": {
     size_kb: 34.3,
