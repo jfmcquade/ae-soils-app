@@ -1,34 +1,27 @@
 {
   "flow_type": "data_list",
   "flow_name": "pests_sections",
-  "status": "released",
   "data_list_name": "pests_sections",
+  "status": "released",
   "rows": [
     {
       "id": "section_insects",
-      "heading": "Insects",
-      "child_1": "sections.pests_pests",
-      "child_2": "sections.pests_beneficials",
-      "template": "pests_sub_templates",
-      "save_id_field": "current_pest_tab"
+      "heading": "Attracting natural enemies!",
+      "description": "Insects can either have a positive or negative effect on your farm. Here are some categories of beneficial insects including flies and how to use them to protect your crops.",
+      "template": "attract_enemies_scrn"
     },
     {
       "id": "section_planting",
-      "heading": "Farm Practices",
-      "child_1": "sections.pests_monoculture",
-      "child_2": "sections.pests_plant_diversity",
-      "template": "pests_sub_templates",
-      "save_id_field": "current_pest_tab"
+      "heading": "Using plant diversity",
+      "description": "Diversity of plants can help provide food and shelter that attract natural enemies which protect your crops. Here are ideas to try.",
+      "template": "plant_diversity_scrn"
     },
     {
       "id": "section_pesticides",
-      "heading": "Pesticides",
-      "illustration": "pests/pesticides.png",
-      "child_1": "sections.pests_toxic",
-      "child_2": "sections.pests_nontoxic",
-      "template": "pests_sub_templates",
-      "save_id_field": "current_pest_tab"
+      "heading": "Using less toxic products",
+      "description": "Homemade pesticides are safer, cheaper and a more eco-friendly way of controlling insect pests.\n\nHere are some recipes and plants you can use:",
+      "template": "less_toxic_products_scrn"
     }
   ],
-  "_xlsxPath": "data_lists/pests/pests_data_lists.xlsx"
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
 }

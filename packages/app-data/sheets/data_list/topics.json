@@ -8,7 +8,7 @@
       "id": "soils",
       "title": "Soil Health",
       "illustration": "soils/soils_icon.png",
-      "data_list_name": "principles_soil_health",
+      "data_list_name": "soil_health",
       "template": "soils_screen"
     },
     {

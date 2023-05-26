@@ -1,0 +1,333 @@
+{
+  "flow_type": "template",
+  "flow_name": "mixed_farm_screen",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@data.soil_health.section_mixed.heading",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.soil_health.section_mixed.heading",
+            "matchedExpression": "@data.soil_health.section_mixed.heading",
+            "type": "data",
+            "fieldName": "soil_health"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.soil_health.section_mixed.heading": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "name": "image",
+      "value": "@data.soil_health.section_mixed.illustration",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.soil_health.section_mixed.illustration",
+            "matchedExpression": "@data.soil_health.section_mixed.illustration",
+            "type": "data",
+            "fieldName": "soil_health"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.soil_health.section_mixed.illustration": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "value": "@data.soil_health.section_mixed.description",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.soil_health.section_mixed.description",
+            "matchedExpression": "@data.soil_health.section_mixed.description",
+            "type": "data",
+            "fieldName": "soil_health"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.soil_health.section_mixed.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "accordion",
+      "condition": false,
+      "rows": [
+        {
+          "type": "items",
+          "value": "@data.mixed_farming",
+          "rows": [
+            {
+              "type": "accordion_section",
+              "name": "acc_@item.id",
+              "value": "@item.heading",
+              "rows": [
+                {
+                  "type": "template",
+                  "value": "mixed_farm",
+                  "rows": [
+                    {
+                      "name": "type_id",
+                      "value": "@item.id",
+                      "_translations": {
+                        "value": {}
+                      },
+                      "type": "set_variable",
+                      "_nested_name": "accordion.items.acc_@item.id.mixed_farm.type_id",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "_nested_name": [
+                          {
+                            "fullExpression": "accordion.items.acc_@item.id.mixed_farm.type_id",
+                            "matchedExpression": "@item.id.mixed_farm.type_id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@item.id": [
+                          "value"
+                        ],
+                        "@item.id.mixed_farm.type_id": [
+                          "_nested_name"
+                        ]
+                      }
+                    }
+                  ],
+                  "name": "mixed_farm",
+                  "_nested_name": "accordion.items.acc_@item.id.mixed_farm",
+                  "_dynamicFields": {
+                    "_nested_name": [
+                      {
+                        "fullExpression": "accordion.items.acc_@item.id.mixed_farm",
+                        "matchedExpression": "@item.id.mixed_farm",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id.mixed_farm": [
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "accordion.items.acc_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "acc_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.heading",
+                    "matchedExpression": "@item.heading",
+                    "type": "item",
+                    "fieldName": "heading"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "accordion.items.acc_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.heading": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "items",
+          "_nested_name": "accordion.items",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.mixed_farming",
+                "matchedExpression": "@data.mixed_farming",
+                "type": "data",
+                "fieldName": "mixed_farming"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.mixed_farming": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "accordion",
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "items",
+      "value": "@data.mixed_farming",
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_@item.id",
+          "value": "@item.heading",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_type",
+                "@item.id"
+              ],
+              "_raw": "click | set_field: current_type: @item.id",
+              "_cleaned": "click | set_field: current_type: @item.id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "mixed_farm"
+              ],
+              "_raw": "click | go_to: mixed_farm",
+              "_cleaned": "click | go_to: mixed_farm"
+            }
+          ],
+          "_nested_name": "items.button_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@item.heading",
+                "matchedExpression": "@item.heading",
+                "type": "item",
+                "fieldName": "heading"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_type: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_type: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              }
+            },
+            "_nested_name": [
+              {
+                "fullExpression": "items.button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "_nested_name"
+            ],
+            "@item.heading": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.mixed_farming",
+            "matchedExpression": "@data.mixed_farming",
+            "type": "data",
+            "fieldName": "mixed_farming"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.mixed_farming": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/global/soil_templates.xlsx"
+}

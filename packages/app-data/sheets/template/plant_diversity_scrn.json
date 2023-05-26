@@ -1,0 +1,333 @@
+{
+  "flow_type": "template",
+  "flow_name": "plant_diversity_scrn",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@data.pests_sections.section_planting.heading",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.pests_sections.section_planting.heading",
+            "matchedExpression": "@data.pests_sections.section_planting.heading",
+            "type": "data",
+            "fieldName": "pests_sections"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.pests_sections.section_planting.heading": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "name": "image",
+      "value": "@data.pests_sections.section_planting.illustration",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.pests_sections.section_planting.illustration",
+            "matchedExpression": "@data.pests_sections.section_planting.illustration",
+            "type": "data",
+            "fieldName": "pests_sections"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.pests_sections.section_planting.illustration": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "value": "@data.pests_sections.section_planting.description",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.pests_sections.section_planting.description",
+            "matchedExpression": "@data.pests_sections.section_planting.description",
+            "type": "data",
+            "fieldName": "pests_sections"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.pests_sections.section_planting.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "accordion",
+      "condition": false,
+      "rows": [
+        {
+          "type": "items",
+          "value": "@data.plant_diversity",
+          "rows": [
+            {
+              "type": "accordion_section",
+              "name": "acc_@item.id",
+              "value": "@item.heading",
+              "rows": [
+                {
+                  "type": "template",
+                  "value": "plant_diversity",
+                  "rows": [
+                    {
+                      "name": "type_id",
+                      "value": "@item.id",
+                      "_translations": {
+                        "value": {}
+                      },
+                      "type": "set_variable",
+                      "_nested_name": "accordion.items.acc_@item.id.plant_diversity.type_id",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "_nested_name": [
+                          {
+                            "fullExpression": "accordion.items.acc_@item.id.plant_diversity.type_id",
+                            "matchedExpression": "@item.id.plant_diversity.type_id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@item.id": [
+                          "value"
+                        ],
+                        "@item.id.plant_diversity.type_id": [
+                          "_nested_name"
+                        ]
+                      }
+                    }
+                  ],
+                  "name": "plant_diversity",
+                  "_nested_name": "accordion.items.acc_@item.id.plant_diversity",
+                  "_dynamicFields": {
+                    "_nested_name": [
+                      {
+                        "fullExpression": "accordion.items.acc_@item.id.plant_diversity",
+                        "matchedExpression": "@item.id.plant_diversity",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id.plant_diversity": [
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "accordion.items.acc_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "acc_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.heading",
+                    "matchedExpression": "@item.heading",
+                    "type": "item",
+                    "fieldName": "heading"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "accordion.items.acc_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.heading": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "items",
+          "_nested_name": "accordion.items",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.plant_diversity",
+                "matchedExpression": "@data.plant_diversity",
+                "type": "data",
+                "fieldName": "plant_diversity"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.plant_diversity": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "accordion",
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "items",
+      "value": "@data.plant_diversity",
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_@item.id",
+          "value": "@item.heading",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_type",
+                "@item.id"
+              ],
+              "_raw": "click | set_field: current_type: @item.id",
+              "_cleaned": "click | set_field: current_type: @item.id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "plant_diversity"
+              ],
+              "_raw": "click | go_to: plant_diversity",
+              "_cleaned": "click | go_to: plant_diversity"
+            }
+          ],
+          "_nested_name": "items.button_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@item.heading",
+                "matchedExpression": "@item.heading",
+                "type": "item",
+                "fieldName": "heading"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_type: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_type: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              }
+            },
+            "_nested_name": [
+              {
+                "fullExpression": "items.button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "_nested_name"
+            ],
+            "@item.heading": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.plant_diversity",
+            "matchedExpression": "@data.plant_diversity",
+            "type": "data",
+            "fieldName": "plant_diversity"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.plant_diversity": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/global/pest_navigation.xlsx"
+}

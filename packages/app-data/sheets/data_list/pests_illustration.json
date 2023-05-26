@@ -1,8 +1,8 @@
 {
   "flow_type": "data_list",
   "flow_name": "pests_illustration",
-  "status": "released",
   "data_list_name": "pests_illustration",
+  "status": "released",
   "rows": [
     {
       "id": "spider_mites",
@@ -17,7 +17,7 @@
     {
       "id": "thrips",
       "sub_section": "pests_pests",
-      "description": "Thrips can cause wilting and distort leaves and fruits.",
+      "description": "Thrips are tiny, slender insects that feed on the sap of plants, causing damage to leaves, flowers, and fruits. Thrips can cause wilting and distort leaves and fruits.",
       "title": "Thrips",
       "image_1": "pests/thrips.png",
       "body_type": "soft",
@@ -26,7 +26,7 @@
     {
       "id": "whiteflies",
       "sub_section": "pests_pests",
-      "description": "Whiteflies also transmit many serious viral diseases in tomatoes, including all those on the right.",
+      "description": "Whiteflies are small, powdery-winged insects that feed on plant sap and cause damage to plants by yellowing, wilting, and stunting growth. They are commonly found on the undersides of leaves, and can transmit plant viruses and fungal diseases.",
       "title": "Whiteflies",
       "image_1": "pests/whiteflies_1.png",
       "body_type": "soft",
@@ -54,7 +54,7 @@
     {
       "id": "leafminers",
       "sub_section": "pests_pests",
-      "description": "Leafminers feed within leaves, producing large patches or winding tunnels of dead tissue.",
+      "description": "Leafminers larvae feed within leaves, producing large patches or winding tunnels of dead tissue.",
       "title": "Leafminers",
       "image_1": "pests/leafminer_adult.png",
       "image_2": "pests/leafminer_larvae.png",
@@ -64,6 +64,7 @@
     {
       "id": "caterpillars",
       "sub_section": "pests_pests",
+      "description": "Caterpillars can cause extensive damage to agricultural crops by feeding on leaves, buds, and flowers, which can lead to defoliation and reduced plant growth.",
       "title": "Caterpillars",
       "image_1": "pests/caterpillars.png",
       "body_type": "soft",
@@ -72,7 +73,7 @@
     {
       "id": "lady_beetles",
       "sub_section": "pests_beneficials",
-      "description": "Both the larva and adult ladybugs eat aphids and other small soft bodied insects.",
+      "description": "Both the larva and adult ladybugs eat aphids and other small soft bodied insects. The larvae eat the most. Around 200 aphids a week. Flowers attract them.",
       "title": "Ladybugs",
       "image_1": "pests/lady_beetle.png",
       "body_type": "hard",
@@ -81,6 +82,7 @@
     {
       "id": "lacewing",
       "sub_section": "pests_beneficials",
+      "description": "Both the adults and larvae can eat aphids and other small, soft bodied insects. The larvae eat the most—they can eat as many as 1000 aphids. Adults attracted to pollen and nectar of flowers",
       "title": "Lacewing",
       "image_1": "pests/lacewing_adult.png",
       "image_2": "pests/lacewing_larvae.png",
@@ -100,6 +102,7 @@
     {
       "id": "parasitoids",
       "sub_section": "pests_beneficials",
+      "description": "Parasitoids are a type of insect that lay their eggs inside or on another insect host, where the developing parasitoid larvae consume the host as they grow.",
       "title": "Parasitoids",
       "image_1": "pests/parasitoids_on_aphids.png",
       "image_2": "pests/parasitoids.png",
@@ -109,7 +112,7 @@
     {
       "id": "praying_mantis",
       "sub_section": "pests_beneficials",
-      "description": "Young praying mantis are smaller with no wings but otherwise identical. They eat any insect, even others of their kind.",
+      "description": "Praying mantis eat any insect, even others of their kind.",
       "title": "Praying mantis",
       "image_1": "pests/praying_mantis.PNG",
       "body_type": "hard",
@@ -154,6 +157,7 @@
     {
       "id": "ground_beetle_predators",
       "sub_section": "pests_beneficials",
+      "description": "Ground beetles are known to prey on many common garden pests, including slugs, snails, and other small insects. By adding ground cover and minimizing tillage, gardeners can create habitats that attract these beneficial insects.",
       "title": "Ground beetle predators",
       "image_1": "pests/ground_beetle.PNG",
       "body_type": "hard",
@@ -162,6 +166,7 @@
     {
       "id": "predator_flies",
       "sub_section": "pests_beneficials",
+      "description": "Robber flies are known to prey on many common garden pests, including flies, bees, and wasps. By providing diverse habitat and avoiding broad-spectrum insecticides, gardeners can create environments that attract these beneficial insects.",
       "title": "Predator flies (robber flies)",
       "image_1": "pests/robber_flies_1.png",
       "image_2": "pests/robber_flies_2.png",
@@ -171,6 +176,7 @@
     {
       "id": "other_insect_eaters",
       "sub_section": "pests_beneficials",
+      "description": "Other insect eaters include bats, frogs, birds, rodents and chameleon.",
       "title": "Other insect eaters",
       "image_1": "pests/other_insect_eaters.PNG",
       "body_type": "hard",
@@ -179,7 +185,7 @@
     {
       "id": "ornamentals_attract_beneficials",
       "sub_section": "pests_plant_diversity",
-      "description": "Ornamental plants attract beneficials.",
+      "description": "Ornamental plants attract beneficial insects.",
       "title": "Ornamental plants",
       "image_1": "pests/ornamentals_attract_beneficials.png"
     },
@@ -218,5 +224,5 @@
       "image_1": "pests/flowers_on_margins_of_fields.PNG"
     }
   ],
-  "_xlsxPath": "data_lists/pests/pests_data_lists.xlsx"
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
 }

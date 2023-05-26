@@ -1,0 +1,27 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "plant_diversity",
+  "data_list_name": "plant_diversity",
+  "status": "released",
+  "rows": [
+    {
+      "id": "diversity_attract",
+      "heading": "Provide food",
+      "description": "By having flowering plants on your farm you are attracting beneficials by providing food to them as they feed on pollen and nectar.",
+      "examples": "Crops such as sunflower, carrots, dill and dania not only have flowers to attract beneficials but can also be used as food thus making them great examples of crops to incorporate in your farm.",
+      "illustration_1": "manor_pests/attract.jpg",
+      "audio_transcript": "Flowers have nectar and pollen which beneficial insects feed on. Flowers made up of many small flowers are the most attractive. By growing crops that have flowers on your farm you are providing food to the beneficials that in turn feed on the pests attacking your crops.\n\nSome food crops such as dania, dill, carrots, fennel and sunflower are great food crops to incorporate in your farm. In addition to attracting beneficials, sunflower seeds are extremely nutritious to humans and poultry.",
+      "audio": "nutrition/audio/go_food.mp3"
+    },
+    {
+      "id": "diversity_shelter",
+      "heading": "Provide shelter",
+      "description": "To preserve beneficials from major disruptions, provide permanent shelter on field and garden margins.",
+      "examples": "Plant or allow grasses and wildflowers to grow on the margins of your fields and gardens.",
+      "illustration_1": "manor_pests/shelter.jpg",
+      "audio_transcript": "By allowing grasses and wildflowers to grow freely on the edges of your fields and gardens you are proving shelter for the beneficials. It is important not to disturb them.\n\nHedgerows, ornamental plants, tree lines and contour lines serve similar functions provided they also include flowering plants.",
+      "audio": "nutrition/audio/go_food.mp3"
+    }
+  ],
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
+}

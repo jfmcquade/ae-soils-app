@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "beneficials_categories",
+  "data_list_name": "beneficials_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "soft_predator",
+      "heading": "Predators of soft-bodied pests",
+      "description": "These are insects that feed on small and soft-bodied insect pests such as aphids.",
+      "examples": "Examples include: Ladybugs, Lacewings, and Syrphid flies (Hover flies)."
+    },
+    {
+      "id": "parasitoid_predator",
+      "heading": "Parasitoids",
+      "description": "These are insects whose larvae live as parasites, and eventually, kill the host insect pest.",
+      "examples": "Parasitoids include species of wasps, flies and beneficial nematodes"
+    },
+    {
+      "id": "hard_predator",
+      "heading": "Predators of larger insect pests",
+      "description": "These are insects that feed on large insect pests such as caterpillars.",
+      "examples": "Examples include: Praying mantis, Dragonflies, Ground beetles, Robber flies, and Wasps."
+    },
+    {
+      "id": "other_predator",
+      "heading": "Other insect eaters",
+      "description": "These are animals such as rodents, birds, frogs e.t.c. that feed on insect pests.",
+      "examples": "Examples include: Birds, Frogs, Scorpions, Giant rats and also Bats."
+    }
+  ],
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
+}
