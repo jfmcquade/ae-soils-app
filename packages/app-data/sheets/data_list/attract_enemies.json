@@ -1,0 +1,29 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "attract_enemies",
+  "data_list_name": "attract_enemies",
+  "status": "released",
+  "rows": [
+    {
+      "id": "id_pests",
+      "heading": "Insect pests",
+      "description": "These are insects that damage your crops.",
+      "examples": "Some of the common insect pests include aphids, spidermites, thrips, whiteflies, mealy bugs, leafminers and caterpillars.",
+      "data_list": [
+        "pest_categories"
+      ],
+      "template": "pest_categories"
+    },
+    {
+      "id": "id_beneficials",
+      "heading": "Beneficials",
+      "description": "These are animals or insects that feed on the insect pests.",
+      "examples": "Some common beneficial insects include ladybugs, lacewings, dragon flies, spiders and praying mantis.",
+      "data_list": [
+        "beneficials_categories"
+      ],
+      "template": "beneficials_categories"
+    }
+  ],
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
+}

@@ -28,11 +28,17 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "ae_ifa",
       _xlsxPath: "data_lists/ae_principles/ae_principles_data_lists.xlsx",
     },
-    animal_diversity_kp_soils: {
+    attract_enemies: {
       flow_type: "data_list",
-      flow_name: "animal_diversity_kp_soils",
-      data_list_name: "animal_diversity_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
+      flow_name: "attract_enemies",
+      data_list_name: "attract_enemies",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
+    },
+    beneficials_categories: {
+      flow_type: "data_list",
+      flow_name: "beneficials_categories",
+      data_list_name: "beneficials_categories",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
     children_nutrients: {
       flow_type: "data_list",
@@ -40,11 +46,11 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "children_nutrients",
       _xlsxPath: "data_lists/nutrition/nutrition_data_lists.xlsx",
     },
-    cover_crops_kp_soils: {
+    control_erosion: {
       flow_type: "data_list",
-      flow_name: "cover_crops_kp_soils",
-      data_list_name: "cover_crops_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
+      flow_name: "control_erosion",
+      data_list_name: "control_erosion",
+      _xlsxPath: "data_lists/soils/soil_data_lists.xlsx",
     },
     example_calc_data_list: {
       flow_type: "data_list",
@@ -124,17 +130,11 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "food_types",
       _xlsxPath: "data_lists/nutrition/nutrition_data_lists.xlsx",
     },
-    formation_of_organic_matter: {
+    less_toxic_products: {
       flow_type: "data_list",
-      flow_name: "formation_of_organic_matter",
-      data_list_name: "formation_of_organic_matter",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    healthy_soils_kp_soils: {
-      flow_type: "data_list",
-      flow_name: "healthy_soils_kp_soils",
-      data_list_name: "healthy_soils_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
+      flow_name: "less_toxic_products",
+      data_list_name: "less_toxic_products",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
     library_data: {
       flow_type: "data_list",
@@ -178,6 +178,12 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "male_weights",
       _xlsxPath: "data_lists/nutrition/nutrition_data_lists.xlsx",
     },
+    mixed_farming: {
+      flow_type: "data_list",
+      flow_name: "mixed_farming",
+      data_list_name: "mixed_farming",
+      _xlsxPath: "data_lists/soils/soil_data_lists.xlsx",
+    },
     nutrients: {
       flow_type: "data_list",
       flow_name: "nutrients",
@@ -196,65 +202,41 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "percentiles",
       _xlsxPath: "data_lists/nutrition/nutrition_data_lists.xlsx",
     },
+    pest_categories: {
+      flow_type: "data_list",
+      flow_name: "pest_categories",
+      data_list_name: "pest_categories",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
+    },
     pests_illustration: {
       flow_type: "data_list",
       flow_name: "pests_illustration",
       data_list_name: "pests_illustration",
-      _xlsxPath: "data_lists/pests/pests_data_lists.xlsx",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
     pests_sections: {
       flow_type: "data_list",
       flow_name: "pests_sections",
       data_list_name: "pests_sections",
-      _xlsxPath: "data_lists/pests/pests_data_lists.xlsx",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
-    pests_sub_sections: {
+    plant_diversity: {
       flow_type: "data_list",
-      flow_name: "pests_sub_sections",
-      data_list_name: "pest_sub_sections",
-      _xlsxPath: "data_lists/pests/pests_data_lists.xlsx",
+      flow_name: "plant_diversity",
+      data_list_name: "plant_diversity",
+      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
-    plant_diversity_kp_soils: {
+    recycling: {
       flow_type: "data_list",
-      flow_name: "plant_diversity_kp_soils",
-      data_list_name: "plant_diversity_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
+      flow_name: "recycling",
+      data_list_name: "recycling",
+      _xlsxPath: "data_lists/soils/soil_data_lists.xlsx",
     },
-    principles_soil_health: {
+    soil_health: {
       flow_type: "data_list",
-      flow_name: "principles_soil_health",
-      data_list_name: "principles_soil_health",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    recycling_organic_material: {
-      flow_type: "data_list",
-      flow_name: "recycling_organic_material",
-      data_list_name: "recycling_organic_material",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    residue_additions_kp_soils: {
-      flow_type: "data_list",
-      flow_name: "residue_additions_kp_soils",
-      data_list_name: "residue_additions_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    soil_hlth_suppt_slides: {
-      flow_type: "data_list",
-      flow_name: "soil_hlth_suppt_slides",
-      data_list_name: "soil_hlth_suppt_slides",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    soil_seals_and_crusts_kp_soils: {
-      flow_type: "data_list",
-      flow_name: "soil_seals_and_crusts_kp_soils",
-      data_list_name: "soil_seals_and_crusts_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
-    },
-    soil_tilth_kp_soils: {
-      flow_type: "data_list",
-      flow_name: "soil_tilth_kp_soils",
-      data_list_name: "soil_tilth_kp_soils",
-      _xlsxPath: "data_lists/soils/soils_health.xlsx",
+      flow_name: "soil_health",
+      data_list_name: "soil_health",
+      _xlsxPath: "data_lists/soils/soil_data_lists.xlsx",
     },
     topics: {
       flow_type: "data_list",
@@ -308,6 +290,31 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_type: "template",
       flow_name: "app_menu",
       _xlsxPath: "templates/global/navigation.xlsx",
+    },
+    attract_enemies: {
+      flow_type: "template",
+      flow_name: "attract_enemies",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    attract_enemies_scrn: {
+      flow_type: "template",
+      flow_name: "attract_enemies_scrn",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    control_ersn: {
+      flow_type: "template",
+      flow_name: "control_ersn",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    control_ersn_screen: {
+      flow_type: "template",
+      flow_name: "control_ersn_screen",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    control_ersn_transcript: {
+      flow_type: "template",
+      flow_name: "control_ersn_transcript",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
     },
     example_accordion: {
       flow_type: "template",
@@ -776,6 +783,21 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "individual_need",
       _xlsxPath: "templates/global/nutrition_templates.xlsx",
     },
+    less_toxic_products: {
+      flow_type: "template",
+      flow_name: "less_toxic_products",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    less_toxic_products_scrn: {
+      flow_type: "template",
+      flow_name: "less_toxic_products_scrn",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    less_toxic_products_transcript: {
+      flow_type: "template",
+      flow_name: "less_toxic_products_transcript",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
     lib_pest: {
       flow_type: "template",
       flow_name: "lib_pest",
@@ -811,6 +833,21 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "library_screen",
       _xlsxPath: "templates/global/library.xlsx",
     },
+    mixed_farm: {
+      flow_type: "template",
+      flow_name: "mixed_farm",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    mixed_farm_screen: {
+      flow_type: "template",
+      flow_name: "mixed_farm_screen",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    mixed_farm_transcript: {
+      flow_type: "template",
+      flow_name: "mixed_farm_transcript",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
     needs_screen: {
       flow_type: "template",
       flow_name: "needs_screen",
@@ -836,30 +873,50 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "nutrition_screen",
       _xlsxPath: "templates/global/navigation.xlsx",
     },
-    pest_home_screen: {
+    pest_categories: {
       flow_type: "template",
-      flow_name: "pest_home_screen",
-      _xlsxPath: "templates/global/pests_template.xlsx",
+      flow_name: "pest_categories",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
     },
-    pests_content_templates: {
+    pest_categories_transcript: {
       flow_type: "template",
-      flow_name: "pests_content_templates",
-      _xlsxPath: "templates/global/pests_template.xlsx",
-    },
-    pests_insect_templates: {
-      flow_type: "template",
-      flow_name: "pests_insect_templates",
-      _xlsxPath: "templates/global/pests_template.xlsx",
+      flow_name: "pest_categories_transcript",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
     },
     pests_screen: {
       flow_type: "template",
       flow_name: "pests_screen",
       _xlsxPath: "templates/global/navigation.xlsx",
     },
-    pests_sub_templates: {
+    plant_div: {
       flow_type: "template",
-      flow_name: "pests_sub_templates",
-      _xlsxPath: "templates/global/pests_template.xlsx",
+      flow_name: "plant_div",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    plant_div_screen: {
+      flow_type: "template",
+      flow_name: "plant_div_screen",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    plant_div_transcript: {
+      flow_type: "template",
+      flow_name: "plant_div_transcript",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    plant_diversity: {
+      flow_type: "template",
+      flow_name: "plant_diversity",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    plant_diversity_scrn: {
+      flow_type: "template",
+      flow_name: "plant_diversity_scrn",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    plant_diversity_transcript: {
+      flow_type: "template",
+      flow_name: "plant_diversity_transcript",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
     },
     principle: {
       flow_type: "template",
@@ -875,6 +932,21 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_type: "template",
       flow_name: "principles_screen",
       _xlsxPath: "templates/global/principles.xlsx",
+    },
+    recycle: {
+      flow_type: "template",
+      flow_name: "recycle",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    recycle_screen: {
+      flow_type: "template",
+      flow_name: "recycle_screen",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
+    },
+    recycle_transcript: {
+      flow_type: "template",
+      flow_name: "recycle_transcript",
+      _xlsxPath: "templates/global/soil_templates.xlsx",
     },
     soil_prac_acts: {
       flow_type: "template",
@@ -900,11 +972,6 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_type: "template",
       flow_name: "topics_screen",
       _xlsxPath: "templates/global/navigation.xlsx",
-    },
-    understanding_pests_sheet: {
-      flow_type: "template",
-      flow_name: "understanding_pests_sheet",
-      _xlsxPath: "templates/global/pests_template.xlsx",
     },
   },
   tour: {

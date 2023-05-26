@@ -1,0 +1,40 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "less_toxic_products",
+  "data_list_name": "less_toxic_products",
+  "status": "released",
+  "rows": [
+    {
+      "id": "id_pesticides",
+      "heading": "Cooking oil sprays",
+      "description": "Cooking oil spray suffocates insects by blocking their airholes.",
+      "examples": "How to make cooking oil sprays to control soft bodied pests.",
+      "recipe": "* 3 tablespoons of liquid vegetable oil in 4 litres of water\n* ½ teaspoon of liquid soap\n* Shake well and use",
+      "illustration": "manor_pests/oilspray.jpg",
+      "audio": "nutrition/audio/go_food.mp3",
+      "audio_transcript": "Insects don’t breathe through a nose. They breathe through airholes on the sides of their bodies called spiracles. The oil mix blocks these airholes and the insects suffocate. This works for aphids and other soft bodied insect pests that the oil contacts directly."
+    },
+    {
+      "id": "id_oil",
+      "heading": "Soap sprays",
+      "description": "Soap dissolves the skeletons of soft bodied insects.",
+      "examples": "Making soap sprays to control soft bodied pests",
+      "recipe": "* Use unperfumed bar soap or liquid dish soap\n* 5 tablespoons of bar soap dissolved in 4 litres of water\n* OR 2 tablespoons of dish washing liquid in 4 litres of water",
+      "illustration": "manor_pests/soapbar2.jpg",
+      "audio": "nutrition/audio/go_food.mp4",
+      "audio_transcript": "Soap dissolves the skeletons of soft bodied insects. Their skeletons are on the outside of their body and so soapy water spray can control a pest infestation."
+    },
+    {
+      "id": "id_pesticidal_plants",
+      "heading": "Plants against pests",
+      "description": "Did you know plants such as Tephrosia and Tithonia have natural pest control properties that effectively repel pests?",
+      "examples": "Planting Tephrosia and Tithonia near crops can control pests naturally and effectively with powerful insecticidal compounds.\n\nThey also improve soil health by fixing essential nutrients and providing forage for livestock.",
+      "preparation": "Tephrosia preparation:\n\n* Harvest the leaves very early in the morning or late in the evening. Dry them under a shade for 3 days\n* Grind the leaves into a powder using a machine/grinder.\n* Store the powder in an airtight container for future use.",
+      "recipe": "Recipe:\n\n*  Add a small piece of unperfumed bar soap into the mixture. \n* In a container, mix the tephrosia powder with water in a 1:10 ratio for example 1kg of tephrosia in 10 litres of water.\n* Soak for 24 hours.\n* Sieve the mixture using a piece of cloth or a sieve.\n* Pour the extract into a container that you will use for spraying.",
+      "other": "As manure: \n\n* Ferment in the evening and spray on the leaves of the plant.\n* When planted on farms, it acts as a nitrogen fixing.\n* It also cures fungal disease black rod on kales",
+      "audio": "nutrition/audio/go_food.mp5",
+      "audio_transcript": "Tephrosia as recipe, as pesticide, as fertiliser"
+    }
+  ],
+  "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
+}
