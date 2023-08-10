@@ -7,42 +7,42 @@
     {
       "id": "soil_increase",
       "heading": "Making compost manure",
-      "description": "Residues are a major source of carbon for bringing your soil back to life!",
+      "description": "Organic farm waste can compost down and enrich your soil, turning it into loose dark healthy soil with channels that help it absorb water and make it easy to cultivate. Recycling plant debris and manure by making compost is really easy to do and creates healthy and vigorous crops as they have all the nutrients and minerals they need.",
       "illustration_1": "soil_health/soil_residue.PNG",
-      "audio_transcript": "Farm debris and manure turn your soil into loose dark healthy soil with channels that help it absorb water and make it easy to cultivate. The crops grown there tend to be healthy and vigorous.\nYou can make compost out of any plant debris or manure, and animal bedding is full of nutrient-rich urine so it makes excellent compost. Sunshine and rain make compost lose its nutritional value so cover it with a big plastic sheet, or build a shed for it to protect it.",
+      "audio_transcript": "You can make compost out of any plant debris or manure. Ideally you want a good mixture of nitrogen rich green materials and carbon rich brown materials, like woody stems. Animal bedding is the best of both as it's full of nutrient-rich urine so it makes excellent compost.\nCut these waste products up into small pieces and heap them up into a protected corner, or in a shed, then leave them to rot down. A good compost heap is full of insects and micro-organisms. Sunshine and rain make compost lose its nutritional value so cover the pile with a big plastic sheet, or build a shed to protect it. Your compost is ready to use after about 6 months, when it's turned into dark brown crumbly soil and smells sweet.",
       "audio": "nutrition/audio/go_food.mp4"
     },
     {
       "id": "soil_forage",
       "heading": "Forage and bedding",
-      "description": "Reusing farm residues.",
+      "description": "Recycle plant residues from crops as feed and bedding for your animals, then as manure rich compost that you can spread on your fields.",
       "illustration_1": "soil_health/animal_bedding.PNG",
-      "audio_transcript": "Some people opt to burn their farm’s remains after harvesting, however, you can store them and use them as animal fodder which is much wiser. After the animals eat, you can use the remaining plant matter as their bedding and the plant remains will soak up the animal urine which is full of nutrients that can be used as manure.",
+      "audio_transcript": "Some people opt to burn their farm’s remains after harvesting, however, you can store them and use them as animal fodder which is much wiser. After the animals eat, you can use the remaining plant matter as their bedding and the plant remains will soak up the animal urine. The bedding will be full of nutrients from the manure and tough stalks will have been broken up by the animals, so when you change the bedding be sure to put the old material into your compost heap.",
       "audio": "nutrition/audio/go_food.mp3"
     },
     {
       "id": "soil_nutrients",
       "heading": "Urine-fertilizer",
-      "description": "Both animal and human urine can be used as fertilizer.",
+      "description": "Both animal and human urine are excellent natural fertilizers for plants. They have high levels of nitrogen and should be diluted with water before putting on plants.",
       "illustration_1": "soil_health/trees_wth_urine.PNG",
-      "audio_transcript": "Urine is rich in nutrients and you can feed it to trees in the nursery. Human urine is another example of a nutritional source. If you dilute it with water, it can be poured onto the soil or your compost pile.",
+      "audio_transcript": "If your plant leaves start turning yellow, they might have a nitrogen deficiency.\nUrine is rich in nutrients, especially nitrogen, and is very easy to get hold of! Collect animal urine through their bedding, or human urine in a bucket in your toilet. Dilute it with water and pour onto the soil or your compost pile.",
       "audio": "nutrition/audio/go_food.mp4"
     },
     {
       "id": "soil_biochar",
       "heading": "Make Biochar",
-      "description": "Turn ‘waste products’ into Biochar!",
+      "description": "An alternative to compost, you can recycle ‘waste products’ from your farm by making biochar, a charcoal which helps soils absorb water and nutrients.",
       "illustration_1": "soil_health/Biochar.PNG",
-      "audio_transcript": "Biochar is made by burning waste materials like sawdust, crop residue, or wood in a controlled way that is in absence of oxygen and high temperatures. Biochar contains small particles that have electric charges which attract mineral nutrients that supports the growth of organic matter in the soil by acting as their habitat for years. Also, by burning biochar, you will end up with charcoal that is full of air space making your soil have a greater water-holding capacity.",
+      "audio_transcript": "Biochar is made by burning waste materials like sawdust, crop residue, or wood in a controlled way: at very high temperatures and without oxygen. This charcoal, or biochar, contains small particles with electric charges which attract minerals and nutrients that support the growth of soil microbes by acting as their habitat for years. Also, by adding biochar to your soil, it acts like compost and creates air spaces that help improve the soil's water and nutrient absorption.",
       "audio": "nutrition/audio/go_food.mp4"
     },
     {
       "id": "soil_income",
       "heading": "Source of income",
-      "description": "Sell excess farm residues!",
+      "description": "We know that compost, urine, waste forage and biochar are useful tools to improve soil health, so why not make a business out of selling these?",
       "illustration_1": "soil_health/urine.PNG",
       "illustration_2": "soil_health/urine_2.PNG",
-      "audio_transcript": "Collecting animal urine, for example rabbit's, can be a source of income by selling it to the community.\nIf your farm produces enough compost or manure, this can also be sold to help others improve the health of their soil.",
+      "audio_transcript": "Sell your natural fertilisers and help others improve the health of their soil!\nIf your farm produces enough compost or manure, you can use this as another source of income by selling it in your community. \nOr perhaps you want to sell animal urine? For example, rabbit farmers collect the urine from their animals, which can be used used as a fertiliser and as a pesticide.",
       "audio": "nutrition/audio/go_food.mp5"
     }
   ],

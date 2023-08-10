@@ -14,21 +14,22 @@
     {
       "id": "section_recycle",
       "heading": "Recycling",
-      "description": "Plant debris and manure are the main sources of carbon in agricultural systems so we need to recycle. Here are some ways you can re-use farm products.",
+      "description": "Improve the health of your soil by recycling and re-using farm waste products. Plants need carbon to grow healthy and strong and you can keep soil carbon levels high by recycling plant debris and manure.",
       "illustration": "soil_health/recycling.png",
       "template": "recycle_screen"
     },
     {
       "id": "section_mixed",
       "heading": "Mixed Farming",
-      "description": "This is the integration of crops and livestock enterprise. It is essential to understand that animal waste, that is urine and poop, are resources that make crops thrive and improve soil fertility.",
-      "illustration": "soil_health/farm_integration.PNG",
+      "description": "Mixed farming is the integration of crops and livestock enterprises. Animal waste, that is urine and poop, are rich resources that improve soil fertility and so make crops thrive.",
+      "illustration": "soil_health/farm_integration.png",
       "template": "mixed_farm_screen"
     },
     {
       "id": "section_plant",
       "heading": "Plant Diversity",
       "description": "Incorporating different types of crops and practices on the farm helps improve overall crop production and soil health.",
+      "illustration": "soil_health/crop_rotation.PNG",
       "template": "plant_div_screen"
     }
   ],

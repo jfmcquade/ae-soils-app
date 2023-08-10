@@ -430,15 +430,18 @@
     {
       "type": "text",
       "name": "preparation",
-      "value": "@data.@local.type_preparation",
+      "value": "Tephrosia preparation:\n@data.@local.type_preparation",
       "_translations": {
         "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasis"
       },
       "_nested_name": "preparation",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.@local.type_preparation",
+            "fullExpression": "Tephrosia preparation:\n@data.@local.type_preparation",
             "matchedExpression": "@local.type_preparation",
             "type": "local",
             "fieldName": "type_preparation"

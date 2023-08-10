@@ -8,25 +8,45 @@
       "id": "soft_predator",
       "heading": "Predators of soft-bodied pests",
       "description": "These are insects that feed on small and soft-bodied insect pests such as aphids.",
-      "examples": "Examples include: Ladybugs, Lacewings, and Syrphid flies (Hover flies)."
+      "examples": "ladybugs, lacewings, and syrphid flies (hover flies).",
+      "illustration_1": "pests/lady_beetle.png",
+      "audio_transcript": "Ladybugs can be attracted to your farm by planting flowers such as dill, coriander (dania), fennel, and marigolds. They also like areas with plenty of aphids and other small insects for them to feed on.\n\nLadybugs are beneficial to have on your farm because they consume large amounts of pests such as aphids, mites, and whiteflies. In their larval stage,they can consume up to 400 to 500 aphids during development stage, which typically lasts for a few weeks. Adult ladybugs typically consume around 50 to 60 aphids per day.",
+      "audio": "nutrition/audio/go_food.mp3",
+      "template": "beneficials_categories",
+      "save_id_field": "current_beneficials_tab"
     },
     {
       "id": "parasitoid_predator",
       "heading": "Parasitoids",
       "description": "These are insects whose larvae live as parasites, and eventually, kill the host insect pest.",
-      "examples": "Parasitoids include species of wasps, flies and beneficial nematodes"
+      "examples": "species of wasps, flies and beneficial nematodes",
+      "illustration_1": "pests/parasitoids.png",
+      "audio_transcript": "Plants such such as maize, beans, cowpeas, sorghurm and sunflowers attract beneficial insects like parasitoids. \n\nWasps, flies and nematodes can be very beneficial on your farm as they feed on pests. Some parasitoids can consume up to 100 pests like caterpillars, aphids, beetles, whiteflies or leafminers in their lifetime so they prevent pest populations getting to high.\n\nParasitoids are a natural and safer pesticide than chemical pesticides as they do not harm beneficial insects and animals, or contaminate the soil and water.",
+      "audio": "nutrition/audio/go_food.mp3",
+      "template": "beneficials_categories",
+      "save_id_field": "current_beneficials_tab"
     },
     {
       "id": "hard_predator",
       "heading": "Predators of larger insect pests",
       "description": "These are insects that feed on large insect pests such as caterpillars.",
-      "examples": "Examples include: Praying mantis, Dragonflies, Ground beetles, Robber flies, and Wasps."
+      "examples": "praying mantis, dragonflies, ground beetles, robber flies, and wasps.",
+      "illustration_1": "pests/praying_mantis.PNG",
+      "audio_transcript": "Praying mantis are known to eat a variety of pests including aphids, beetles, moths, and even other insects like spiders and grasshoppers. A single praying mantis can consume 10-20 insects per day, making them an effective natural pest control method.",
+      "audio": "nutrition/audio/go_food.mp3",
+      "template": "beneficials_categories",
+      "save_id_field": "current_beneficials_tab"
     },
     {
       "id": "other_predator",
       "heading": "Other insect eaters",
-      "description": "These are animals such as rodents, birds, frogs e.t.c. that feed on insect pests.",
-      "examples": "Examples include: Birds, Frogs, Scorpions, Giant rats and also Bats."
+      "description": "These are animals such as rodents, birds and frogs that feed on insect pests.",
+      "examples": "birds, frogs, scorpions, giant rats and also bats.",
+      "illustration_1": "pests/other_insect_eaters.PNG",
+      "audio_transcript": "These animals can serve as natural pest controls on farms. For example, birds, bats, frogs and scorpions eat insects, and giant rats eat insects and small rodents.\n\nAs well as consuming pests, these animals also provide additional benefits like pollination, improving soil fertility by breaking down organic matter and creating a friendly eco-system by promoting biodiversity. Giant rats can also be a source of food for humans!",
+      "audio": "nutrition/audio/go_food.mp3",
+      "template": "beneficials_categories",
+      "save_id_field": "current_beneficials_tab"
     }
   ],
   "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"

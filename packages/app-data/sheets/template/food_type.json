@@ -70,35 +70,35 @@
       }
     },
     {
-      "name": "illustration",
-      "value": ".illustration",
+      "name": "image_1",
+      "value": ".image_1",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "illustration"
+      "_nested_name": "image_1"
     },
     {
-      "name": "type_illustration",
-      "value": "food_types.@local.type_id@local.illustration",
+      "name": "type_image_1",
+      "value": "food_types.@local.type_id@local.image_1",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "type_illustration",
+      "_nested_name": "type_image_1",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "food_types.@local.type_id@local.illustration",
+            "fullExpression": "food_types.@local.type_id@local.image_1",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "food_types.@local.type_id@local.illustration",
-            "matchedExpression": "@local.illustration",
+            "fullExpression": "food_types.@local.type_id@local.image_1",
+            "matchedExpression": "@local.image_1",
             "type": "local",
-            "fieldName": "illustration"
+            "fieldName": "image_1"
           }
         ]
       },
@@ -106,7 +106,133 @@
         "@local.type_id": [
           "value"
         ],
-        "@local.illustration": [
+        "@local.image_1": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "image_2",
+      "value": ".image_2",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "image_2"
+    },
+    {
+      "name": "type_image_2",
+      "value": "food_types.@local.type_id@local.image_2",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "type_image_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_2",
+            "matchedExpression": "@local.type_id",
+            "type": "local",
+            "fieldName": "type_id"
+          },
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_2",
+            "matchedExpression": "@local.image_2",
+            "type": "local",
+            "fieldName": "image_2"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.type_id": [
+          "value"
+        ],
+        "@local.image_2": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "image_3",
+      "value": ".image_3",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "image_3"
+    },
+    {
+      "name": "type_image_3",
+      "value": "food_types.@local.type_id@local.image_3",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "type_image_3",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_3",
+            "matchedExpression": "@local.type_id",
+            "type": "local",
+            "fieldName": "type_id"
+          },
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_3",
+            "matchedExpression": "@local.image_3",
+            "type": "local",
+            "fieldName": "image_3"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.type_id": [
+          "value"
+        ],
+        "@local.image_3": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "image_4",
+      "value": ".image_4",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "image_4"
+    },
+    {
+      "name": "type_image_4",
+      "value": "food_types.@local.type_id@local.image_4",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "type_image_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_4",
+            "matchedExpression": "@local.type_id",
+            "type": "local",
+            "fieldName": "type_id"
+          },
+          {
+            "fullExpression": "food_types.@local.type_id@local.image_4",
+            "matchedExpression": "@local.image_4",
+            "type": "local",
+            "fieldName": "image_4"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.type_id": [
+          "value"
+        ],
+        "@local.image_4": [
           "value"
         ]
       }
@@ -262,28 +388,111 @@
       }
     },
     {
-      "type": "image",
-      "name": "image",
-      "value": "@data.@local.type_illustration",
-      "_translations": {
-        "value": {}
+      "type": "carousel",
+      "parameter_list": {
+        "centred_slides": "true",
+        "centre_first_and_last": "false"
       },
-      "_nested_name": "image",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.@local.type_illustration",
-            "matchedExpression": "@local.type_illustration",
-            "type": "local",
-            "fieldName": "type_illustration"
+      "rows": [
+        {
+          "type": "image",
+          "name": "image_1",
+          "value": "@data.@local.type_image_1",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_1",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.@local.type_image_1",
+                "matchedExpression": "@local.type_image_1",
+                "type": "local",
+                "fieldName": "type_image_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.type_image_1": [
+              "value"
+            ]
           }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.type_illustration": [
-          "value"
-        ]
-      }
+        },
+        {
+          "type": "image",
+          "name": "image_2",
+          "value": "@data.@local.type_image_2",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.@local.type_image_2",
+                "matchedExpression": "@local.type_image_2",
+                "type": "local",
+                "fieldName": "type_image_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.type_image_2": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "image",
+          "name": "image_3",
+          "value": "@data.@local.type_image_3",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_3",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.@local.type_image_3",
+                "matchedExpression": "@local.type_image_3",
+                "type": "local",
+                "fieldName": "type_image_3"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.type_image_3": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "image",
+          "name": "image_4",
+          "value": "@data.@local.type_image_4",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_4",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.@local.type_image_4",
+                "matchedExpression": "@local.type_image_4",
+                "type": "local",
+                "fieldName": "type_image_4"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.type_image_4": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "carousel",
+      "_nested_name": "carousel"
     },
     {
       "type": "text",

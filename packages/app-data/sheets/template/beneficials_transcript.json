@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "plant_div_transcript",
+  "flow_name": "beneficials_transcript",
   "status": "released",
   "rows": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "type_transcript",
-      "value": "diverse_plants.@local.type_id@local.transcript",
+      "value": "beneficials_categories.@local.type_id@local.transcript",
       "_translations": {
         "value": {}
       },
@@ -47,13 +47,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.transcript",
+            "fullExpression": "beneficials_categories.@local.type_id@local.transcript",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.transcript",
+            "fullExpression": "beneficials_categories.@local.type_id@local.transcript",
             "matchedExpression": "@local.transcript",
             "type": "local",
             "fieldName": "transcript"
@@ -94,5 +94,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/global/soil_templates.xlsx"
+  "_xlsxPath": "templates/global/pest_navigation.xlsx"
 }

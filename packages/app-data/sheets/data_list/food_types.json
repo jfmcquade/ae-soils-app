@@ -6,7 +6,12 @@
   "rows": [
     {
       "id": "food_types_go",
-      "illustration": "nutrition/go_foods.png",
+      "image_1": "nutrition/go_foods_1.jpg",
+      "image_2": "nutrition/go_foods_2.jpg",
+      "image_3": "nutrition/go_foods_3.jpg",
+      "image_4": "nutrition/go_foods_4.jpg",
+      "image_5": "nutrition/go_foods_5.jpg",
+      "image_6": "nutrition/go_foods_6.jpg",
       "icon": "nutrition/icon_go_foods.png",
       "heading": "Go",
       "description": "These foods give us energy to help us \"go\" and be active.",
@@ -16,7 +21,10 @@
     },
     {
       "id": "food_types_grow",
-      "illustration": "nutrition/grow_foods.png",
+      "image_1": "nutrition/grow_foods.png",
+      "image_2": "nutrition/grow_foods.png",
+      "image_3": "nutrition/grow_foods.png",
+      "image_4": "nutrition/grow_foods.png",
       "icon": "nutrition/icon_grow_foods.png",
       "heading": "Grow",
       "description": "These are proteins-rich foods that support growth: they help build and repair our bodies.",
@@ -26,7 +34,10 @@
     },
     {
       "id": "food_types_glow",
-      "illustration": "nutrition/glow_foods.png",
+      "image_1": "nutrition/glow_foods.png",
+      "image_2": "nutrition/glow_foods.png",
+      "image_3": "nutrition/glow_foods.png",
+      "image_4": "nutrition/glow_foods.png",
       "icon": "nutrition/icon_glow_foods.png",
       "heading": "Glow",
       "description": "\"Glow\" foods improve our health and protect our bodies from getting diseases.",

@@ -81,7 +81,7 @@
       "rows": [
         {
           "type": "items",
-          "value": "@data.plant_diversity",
+          "value": "@data.diverse_plants",
           "rows": [
             {
               "type": "accordion_section",
@@ -190,15 +190,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.plant_diversity",
-                "matchedExpression": "@data.plant_diversity",
+                "fullExpression": "@data.diverse_plants",
+                "matchedExpression": "@data.diverse_plants",
                 "type": "data",
-                "fieldName": "plant_diversity"
+                "fieldName": "diverse_plants"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.plant_diversity": [
+            "@data.diverse_plants": [
               "value"
             ]
           }
@@ -209,7 +209,7 @@
     },
     {
       "type": "items",
-      "value": "@data.plant_diversity",
+      "value": "@data.diverse_plants",
       "rows": [
         {
           "type": "button",
@@ -315,15 +315,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.plant_diversity",
-            "matchedExpression": "@data.plant_diversity",
+            "fullExpression": "@data.diverse_plants",
+            "matchedExpression": "@data.diverse_plants",
             "type": "data",
-            "fieldName": "plant_diversity"
+            "fieldName": "diverse_plants"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@data.plant_diversity": [
+        "@data.diverse_plants": [
           "value"
         ]
       }

@@ -100,6 +100,12 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       flow_name: "example_templating_list",
       _xlsxPath: "quality_assurance/example_sheets/Copy of example_advanced_templating.xlsx",
     },
+    diverse_plants: {
+      flow_type: "data_list",
+      flow_name: "diverse_plants",
+      data_list_name: "diverse_plants",
+      _xlsxPath: "data_lists/soils/soil_data_lists.xlsx",
+    },
     elderly_nutrients: {
       flow_type: "data_list",
       flow_name: "elderly_nutrients",
@@ -208,12 +214,6 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
       data_list_name: "pest_categories",
       _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
     },
-    pests_illustration: {
-      flow_type: "data_list",
-      flow_name: "pests_illustration",
-      data_list_name: "pests_illustration",
-      _xlsxPath: "data_lists/pests/pest_management_data_list.xlsx",
-    },
     pests_sections: {
       flow_type: "data_list",
       flow_name: "pests_sections",
@@ -299,6 +299,16 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
     attract_enemies_scrn: {
       flow_type: "template",
       flow_name: "attract_enemies_scrn",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    beneficials_categories: {
+      flow_type: "template",
+      flow_name: "beneficials_categories",
+      _xlsxPath: "templates/global/pest_navigation.xlsx",
+    },
+    beneficials_transcript: {
+      flow_type: "template",
+      flow_name: "beneficials_transcript",
       _xlsxPath: "templates/global/pest_navigation.xlsx",
     },
     control_ersn: {
@@ -989,7 +999,7 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
     home_screen_tour: {
       flow_type: "tour",
       flow_name: "home_screen_tour",
-      _xlsxPath: "tours/global/navigation_tours.xlsx",
+      _xlsxPath: "tours/global/home_screen_tour.xlsx",
     },
   },
   data_pipe: {},

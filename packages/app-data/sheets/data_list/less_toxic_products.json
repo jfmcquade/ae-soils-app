@@ -20,20 +20,21 @@
       "description": "Soap dissolves the skeletons of soft bodied insects.",
       "examples": "Making soap sprays to control soft bodied pests",
       "recipe": "* Use unperfumed bar soap or liquid dish soap\n* 5 tablespoons of bar soap dissolved in 4 litres of water\n* OR 2 tablespoons of dish washing liquid in 4 litres of water",
-      "illustration": "manor_pests/soapbar2.jpg",
+      "illustration": "manor_pests/soap.jpg",
       "audio": "nutrition/audio/go_food.mp4",
       "audio_transcript": "Soap dissolves the skeletons of soft bodied insects. Their skeletons are on the outside of their body and so soapy water spray can control a pest infestation."
     },
     {
       "id": "id_pesticidal_plants",
       "heading": "Plants against pests",
-      "description": "Did you know plants such as Tephrosia and Tithonia have natural pest control properties that effectively repel pests?",
-      "examples": "Planting Tephrosia and Tithonia near crops can control pests naturally and effectively with powerful insecticidal compounds.\n\nThey also improve soil health by fixing essential nutrients and providing forage for livestock.",
-      "preparation": "Tephrosia preparation:\n\n* Harvest the leaves very early in the morning or late in the evening. Dry them under a shade for 3 days\n* Grind the leaves into a powder using a machine/grinder.\n* Store the powder in an airtight container for future use.",
-      "recipe": "Recipe:\n\n*  Add a small piece of unperfumed bar soap into the mixture. \n* In a container, mix the tephrosia powder with water in a 1:10 ratio for example 1kg of tephrosia in 10 litres of water.\n* Soak for 24 hours.\n* Sieve the mixture using a piece of cloth or a sieve.\n* Pour the extract into a container that you will use for spraying.",
-      "other": "As manure: \n\n* Ferment in the evening and spray on the leaves of the plant.\n* When planted on farms, it acts as a nitrogen fixing.\n* It also cures fungal disease black rod on kales",
+      "description": "Did you know that plants such as Tephrosia and Tithonia have natural pest control properties that effectively repel pests, especially soft-bodied pests?",
+      "examples": "Planting Tephrosia and Tithonia near crops can control pests naturally and effectively with their powerful insecticidal compounds.\nThese plants also improve soil health by fixing essential nutrients and providing forage for livestock.\n\nYou can also make a tephrosia based insecticidal spray; here's the recipe.",
+      "preparation": "* Harvest the leaves very early in the morning or late in the evening. Dry them in the shade for 3 days\n* Grind the leaves into a powder using a machine/grinder.\n* Store the powder in an airtight container for future use.",
+      "recipe": "Recipe:\n\n* In a container, mix the tephrosia powder with water in a 1:10 ratio for example 1kg of tephrosia in 10 litres of water.\n* Soak for 24 hours.\n* Sieve the mixture using a piece of cloth or a sieve.\n* Add a small piece of unperfumed bar soap into the mixture. \n* Pour the extract into a container that you will use for spraying.",
+      "other": "As fertiliser: \n\n* Ferment (what?) in the evening and spray on the leaves of the affected plants.\n* When planted on farms, it fixes nitrogen in soils.\n* It also cures fungal disease black rot on kales. (the spray? or the plants in the ground?)",
+      "illustration": "manor_pests/tephrosia.jpg",
       "audio": "nutrition/audio/go_food.mp5",
-      "audio_transcript": "Tephrosia as recipe, as pesticide, as fertiliser"
+      "audio_transcript": "Tephrosia contains rotenone and other chemical substances that have insecticidal properties. Tephrosia disrupts insects' nervous systems, causing paralysis and death and adding soap to the mixture helps to break down the waxy outer layer of soft-bodied insects, making them more susceptible to the toxic effects of the chemicals.\nIt is important to use the right concentration of tephrosia and soap to ensure maximum effectiveness and prevent damage to non-target organisms.\nCompared to chemical insecticides, tephrosia has the added benefit of being a natural fertilizer as it is a leguminous plant. When used as a manure, tephrosia adds nutrients such as nitrogen, phosphorus, and potassium to the soil. This can help to improve soil fertility and promote plant growth."
     }
   ],
   "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"
