@@ -5,24 +5,34 @@
   "status": "released",
   "rows": [
     {
-      "id": "id_pests",
-      "heading": "Insect pests",
-      "description": "These are insects that damage your crops.",
-      "examples": "Some of the common insect pests include aphids, spidermites, thrips, whiteflies, mealy bugs, leafminers and caterpillars.",
-      "data_list": [
-        "pest_categories"
-      ],
-      "template": "pest_categories"
-    },
-    {
       "id": "id_beneficials",
-      "heading": "Beneficials",
-      "description": "These are animals or insects that feed on the insect pests.",
-      "examples": "Some common beneficial insects include ladybugs, lacewings, dragon flies, spiders and praying mantis.",
+      "heading": "Beneficial insects",
+      "description": "These are animals or insects that feed on insect pests.",
+      "examples": "ladybugs, lacewings, wasps, dragon flies, spiders, praying mantis, frogs, lizards and squirrels.",
+      "image_1": "pests/wasp_2.PNG",
+      "image_2": "pests/lady_beetle.png",
+      "image_3": "pests/praying_mantis.PNG",
+      "image_4": "pests/lacewing_adult.png",
+      "image_5": "pests/hover_flies_adults.png",
       "data_list": [
         "beneficials_categories"
       ],
       "template": "beneficials_categories"
+    },
+    {
+      "id": "id_pests",
+      "heading": "Insect pests",
+      "description": "These are insects that damage your crops.",
+      "examples": "aphids, spidermites, thrips, whiteflies, mealy bugs, leafminers and caterpillars.",
+      "image_1": "pests/caterpillars.png",
+      "image_2": "pests/mealy_bug_insect.png",
+      "image_3": "pests/aphids_1.PNG",
+      "image_4": "pests/leafminer_adult.png",
+      "image_5": "pests/whiteflies_1.png",
+      "data_list": [
+        "pest_categories"
+      ],
+      "template": "pest_categories"
     }
   ],
   "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"

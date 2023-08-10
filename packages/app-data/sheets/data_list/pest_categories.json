@@ -7,18 +7,26 @@
     {
       "id": "id_small",
       "heading": "Small insect pests",
-      "description": "These are all small, soft-bodied insects that feed by sucking plant sap. Damage may include: leaf dotting, leaf bleaching, leaf curling and deformation, sticky honeydew (whitish condensed sap) which may support the growth of sooty mold.",
-      "examples": "Examples include: Aphids, Thrips, Spider mites, whiteflies.",
-      "audio_transcript": "These pests have piercing and sucking mouth parts that ingest cell contents causing things like dots on the surface of the leaves. They also transfer viruses to plants as they move from an infected plant to a healthy plant. Contents that are not digested are emmited as secretions (honeydew) at the rear end of the insect and are a source of food for other insects such as ants.\n\nAnts tend to protect the aphids from their natural enemies in a way a farmer would protect his livestock. Soft-bodied pests can be easily controlled with botanical pesticides, soap water and oil.",
-      "audio": "nutrition/audio/go_food.mp3"
+      "description": "These are all small, soft-bodied insects that feed by sucking plant sap. Damage can include: leaf dotting; leaf bleaching; leaf curling and deformation; and sticky honeydew (whitish condensed sap) which encouages a kind of dark mould.",
+      "examples": "aphids, thrips, spider mites, whiteflies.",
+      "illustration_1": "pests/aphids_2.PNG",
+      "illustration_2": "pests_damage/damaged_leaf.jpg",
+      "audio_transcript": "Small, soft bodied insect pests cause damage especially to plant leaves; things like dark dots, bleached parts and strange leaf shapes. This is because the insects eat the cell contents of leaves with their piercing and sucking mouth parts. These small insects can also transfer viruses to plants as they move from an infected plant to a healthy plant.\n\nHave you noticed sticky leaves, or ants busy on infested plants? That's because when eating, aphids emit honeydew, a sticky substance, which is made up of the cell contents they can't digest. This honeydew is actually a source of food for insects like ants.\n\nAnts feed on the honeydew and even protect the aphids from their natural enemies in a way a farmer would protect his livestock.\n\nSoft-bodied pests can be easily controlled with botanical pesticides such as soap water and oil.",
+      "audio": "nutrition/audio/go_food.mp3",
+      "template": "pest_categories",
+      "save_id_field": "current_pest_tab"
     },
     {
       "id": "id_large",
       "heading": "Large insect pests",
-      "description": "Chewing insect pests have mouthparts that are able to chew holes into leaves, buds, roots, seeds, fruits or woody parts of plants.",
-      "examples": "Examples include: Maize stalk borers, Cabbage worm, Fall army worm, Beet armyworm.",
-      "audio_transcript": "Insects with chewing mouthparts, for example caterpillars and locusts cause feeding damage such as holes in leaves and other plant parts, leaf skeletonizing (removal of tissue between the leaf veins) or leaf loss. They sometimes cut through plants at the soil surface, or consume plant roots.",
-      "audio": "nutrition/audio/go_food.mp4"
+      "description": "Larger insect pests have mouthparts that are able to chew holes into leaves, buds, roots, seeds, fruits or woody parts of plants.",
+      "examples": "maize stalk borers, weevils, cabbage worm, fall armyworm, beet armyworm.",
+      "illustration_1": "pests/maize_stalk_borer.jpg",
+      "illustration_2": "pests_damage/weevils.jpg",
+      "audio_transcript": "Insects with chewing mouthparts, for example caterpillars and locusts, cause visible feeding damage. You may notice holes in leaves or other parts of the plant; leaf skeletonizing, which is when the tissue between the leaf veins is removed; or leaf loss when the leaves fall off.\nThese large insect pests can create very visible damage to plants: for example the plants might be leaning over or knocked down flat because the insects have eaten the plant roots, or cut through the stalks at the soil surface!",
+      "audio": "nutrition/audio/go_food.mp4",
+      "template": "pest_categories",
+      "save_id_field": "current_pest_tab"
     }
   ],
   "_xlsxPath": "data_lists/pests/pest_management_data_list.xlsx"

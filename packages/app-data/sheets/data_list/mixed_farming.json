@@ -7,28 +7,38 @@
     {
       "id": "soil_rotation",
       "heading": "Rotational cattle system",
-      "description": "Rotational grazing allows nutrients in manure to be more evenly distributed over your field.",
+      "description": "Animal manure is rich in nutrients, especially nitrogen, and you can feed your soil easily by rotational grazing animals on your fields.",
       "examples": "Use paddocks and move bomas around.",
       "illustration_1": "soil_health/paddocking.PNG",
       "illustration_2": "soil_health/boma.PNG",
-      "audio_transcript": "In areas with large grazing land, temporary paddocks can be constructed where the cattle pee and poop as they graze overnight for at least a period of one week (in the case of a large herd) and then moved to another paddock. The area will be left enriched with nutrients ready to grow crops.\nOccasionally moving your animal boma around enables you to collect boma compost which can lead to rapid soil rehabilitation and improved crop yields. This is better than having a boma full of manure that goes to waste as it is never used!",
+      "audio_transcript": "If you have a lot of grazing land, create temporary paddocks for the animals. Leave a large herd in the paddock for at least one week before moving them to another paddock. Thanks to the animals' pee and poop, the paddock area will be left enriched with nutrients ready to grow healthy crops.\nSimilarly with a boma, if you move the boma around then the animal manure will quickly rehabilitate the soil and improve your crop yields. This is better than having a boma full of manure that goes to waste as it is never used!",
       "audio": "nutrition/audio/go_food.mp3"
     },
     {
       "id": "soil_tractors",
       "heading": "Chicken tractors",
-      "description": "This is a small portable pen with no bottom where you keep your chicken.",
+      "description": "A chicken tractor is a small portable pen for your chickens with no bottom. Move this around your fields to improve feed your soil and grow healthy crops.",
       "illustration_1": "soil_health/chicken_tractor.PNG",
-      "audio_transcript": "A chicken tractor is a small portable pen with no bottom where you keep your chicken. The idea is to leave the pen at one spot and the chicken will scratch for bugs and weeds, and in the end that spot will be lightly tilled and covered in chicken poop thus adding nutrients and making the soil ready for growing crops.",
+      "audio_transcript": "Chickens can improve your soil in two ways. One, chicken manure is full of nutrients so why not spread this manure around your fields by using a chicken tractor? Two, chickens will scratch for bugs and weeds, and so they'll lightly till the soil and prepare it ready for growing crops.",
       "audio": "nutrition/audio/go_food.mp3"
     },
     {
       "id": "soil_fish",
       "heading": "Fish farming",
-      "description": "Adding manure to your fish pond provides nutrients to the aquatic plants that fish feed on.",
+      "description": "Grow healthy aquatic plants and feed your fish by recycling animal manure.",
       "illustration_1": "soil_health/fish_pond.PNG",
       "illustration_2": "soil_health/poutry_goat_shed.PNG",
-      "audio_transcript": "For fish farmers, you can put animal manure in the ponds, providing nutrients to the aquatic plants that the fish feed on.\nAn easy way to do this would be to build your animal shed above the pond so that the animal poop can go straight down into the water, which means you don't need to manually move it!",
+      "audio_transcript": "Do you farm fish? Why not recycle animal manure by adding it in your fish ponds. The manure feeds the aquatic plants that the fish feed on.\nThe easiest way to do this is to build your animal shed above the pond so that the animal poop can go straight down into the water, so you don't need to manually move it!",
+      "audio": "nutrition/audio/go_food.mp3"
+    },
+    {
+      "id": "soil_microdosing",
+      "heading": "Microdosing",
+      "description": "If you don't have enough compost and fertiliser, consider microdosing or nutrient concentration.",
+      "examples": "Dig Zai or Tumbukiza pits to concentrate the nutrients in your soil where your plants grow.",
+      "illustration_1": "soil_health/microdosing.PNG",
+      "illustration_2": "soil_health/zai_holes.PNG",
+      "audio_transcript": "Rather than spreading compost and farm residues thinly everywhere, it's more effective to concentrate the nutrients directly where the plants are getting them.\nYou can do this microdosing by digging Zai or Tumbukiza pits, big holes that are about one meter apart, and filling them with compost or a little fertilizer. Plant crops in these nutrient rich pits and see the results!\nYou can re-use the pits in the next planting season, but don't forget to add more organic fertiliser.",
       "audio": "nutrition/audio/go_food.mp3"
     }
   ],

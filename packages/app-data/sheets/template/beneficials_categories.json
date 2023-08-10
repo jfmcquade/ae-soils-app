@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "plant_div",
+  "flow_name": "beneficials_categories",
   "status": "released",
   "rows": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "type_heading",
-      "value": "diverse_plants.@local.type_id@local.heading",
+      "value": "beneficials_categories.@local.type_id@local.heading",
       "_translations": {
         "value": {}
       },
@@ -47,13 +47,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.heading",
+            "fullExpression": "beneficials_categories.@local.type_id@local.heading",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.heading",
+            "fullExpression": "beneficials_categories.@local.type_id@local.heading",
             "matchedExpression": "@local.heading",
             "type": "local",
             "fieldName": "heading"
@@ -80,7 +80,7 @@
     },
     {
       "name": "type_illustration_1",
-      "value": "diverse_plants.@local.type_id@local.illustration_1",
+      "value": "beneficials_categories.@local.type_id@local.illustration_1",
       "_translations": {
         "value": {}
       },
@@ -89,13 +89,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_1",
+            "fullExpression": "beneficials_categories.@local.type_id@local.illustration_1",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_1",
+            "fullExpression": "beneficials_categories.@local.type_id@local.illustration_1",
             "matchedExpression": "@local.illustration_1",
             "type": "local",
             "fieldName": "illustration_1"
@@ -122,7 +122,7 @@
     },
     {
       "name": "type_illustration_2",
-      "value": "diverse_plants.@local.type_id@local.illustration_2",
+      "value": "beneficials_categories.@local.type_id@local.illustration_2",
       "_translations": {
         "value": {}
       },
@@ -131,13 +131,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_2",
+            "fullExpression": "beneficials_categories.@local.type_id@local.illustration_2",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_2",
+            "fullExpression": "beneficials_categories.@local.type_id@local.illustration_2",
             "matchedExpression": "@local.illustration_2",
             "type": "local",
             "fieldName": "illustration_2"
@@ -154,48 +154,6 @@
       }
     },
     {
-      "name": "illustration_3",
-      "value": ".illustration_3",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "illustration_3"
-    },
-    {
-      "name": "type_illustration_3",
-      "value": "diverse_plants.@local.type_id@local.illustration_3",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "type_illustration_3",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_3",
-            "matchedExpression": "@local.type_id",
-            "type": "local",
-            "fieldName": "type_id"
-          },
-          {
-            "fullExpression": "diverse_plants.@local.type_id@local.illustration_3",
-            "matchedExpression": "@local.illustration_3",
-            "type": "local",
-            "fieldName": "illustration_3"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.type_id": [
-          "value"
-        ],
-        "@local.illustration_3": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "description",
       "value": ".description",
       "_translations": {
@@ -206,7 +164,7 @@
     },
     {
       "name": "type_description",
-      "value": "diverse_plants.@local.type_id@local.description",
+      "value": "beneficials_categories.@local.type_id@local.description",
       "_translations": {
         "value": {}
       },
@@ -215,13 +173,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.description",
+            "fullExpression": "beneficials_categories.@local.type_id@local.description",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.description",
+            "fullExpression": "beneficials_categories.@local.type_id@local.description",
             "matchedExpression": "@local.description",
             "type": "local",
             "fieldName": "description"
@@ -248,7 +206,7 @@
     },
     {
       "name": "type_examples",
-      "value": "diverse_plants.@local.type_id@local.examples",
+      "value": "beneficials_categories.@local.type_id@local.examples",
       "_translations": {
         "value": {}
       },
@@ -257,13 +215,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.examples",
+            "fullExpression": "beneficials_categories.@local.type_id@local.examples",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.examples",
+            "fullExpression": "beneficials_categories.@local.type_id@local.examples",
             "matchedExpression": "@local.examples",
             "type": "local",
             "fieldName": "examples"
@@ -290,7 +248,7 @@
     },
     {
       "name": "type_audio",
-      "value": "diverse_plants.@local.type_id@local.audio",
+      "value": "beneficials_categories.@local.type_id@local.audio",
       "_translations": {
         "value": {}
       },
@@ -299,13 +257,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.audio",
+            "fullExpression": "beneficials_categories.@local.type_id@local.audio",
             "matchedExpression": "@local.type_id",
             "type": "local",
             "fieldName": "type_id"
           },
           {
-            "fullExpression": "diverse_plants.@local.type_id@local.audio",
+            "fullExpression": "beneficials_categories.@local.type_id@local.audio",
             "matchedExpression": "@local.audio",
             "type": "local",
             "fieldName": "audio"
@@ -389,30 +347,6 @@
       },
       "_dynamicDependencies": {
         "@local.type_illustration_2": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "image",
-      "name": "image",
-      "value": "@data.@local.type_illustration_3",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "image",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.@local.type_illustration_3",
-            "matchedExpression": "@local.type_illustration_3",
-            "type": "local",
-            "fieldName": "type_illustration_3"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.type_illustration_3": [
           "value"
         ]
       }
@@ -527,14 +461,14 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "plant_div_transcript"
+            "beneficials_transcript"
           ],
-          "_raw": "click | pop_up: plant_div_transcript",
-          "_cleaned": "click | pop_up: plant_div_transcript"
+          "_raw": "click | pop_up: beneficials_transcript",
+          "_cleaned": "click | pop_up: beneficials_transcript"
         }
       ],
       "_nested_name": "button_audio"
     }
   ],
-  "_xlsxPath": "templates/global/soil_templates.xlsx"
+  "_xlsxPath": "templates/global/pest_navigation.xlsx"
 }

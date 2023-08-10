@@ -8,6 +8,7 @@
       "id": "soils",
       "title": "Soil Health",
       "illustration": "soils/soils_icon.png",
+      "description": "To grow healthy crops, you need healthy soil. Healthy soil is rich in organic matter and tends to be dark brown, crumbly and moist. It needs to be maintained!\nExplore the many ways you can add essential nutrients and minerals to your soil to ensure healthy and productive crops.",
       "data_list_name": "soil_health",
       "template": "soils_screen"
     },
@@ -15,7 +16,7 @@
       "id": "pests",
       "title": "Pest Control",
       "illustration": "pests/pests_icon.png",
-      "description": "Managing pests",
+      "description": "Create thriving, living fields by encouraging a diverse range of plants and insects. These techniques can help you manage pests in an environmentally friendly way while also saving you money!",
       "data_list_name": "pests_sections",
       "template": "pests_screen"
     },
@@ -23,7 +24,7 @@
       "id": "nutrition",
       "title": "Nutrition",
       "illustration": "nutrition/nutrition_icon.png",
-      "description": "Understanding your food",
+      "description": "Do you know what's in your food? Get to know food types and which foods the different members of your family need to keep them healthy.",
       "data_list_name": "understanding_your_food",
       "template": "nutrition_screen"
     }

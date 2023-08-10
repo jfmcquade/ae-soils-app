@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "soil_cover",
-      "heading": "Cover crops.",
+      "heading": "Cover crops",
       "description": "Covering the soil with plants protects it from erosion and allows it to store water and nutrients.",
       "illustration_1": "soil_health/cover_crop.PNG",
       "audio_transcript": "Look at the two pictures at the top. Which one has healthier soil?\nThe soil on the left is well covered by a vigorous crop: the plant roots mean there is LOW EROSION. Water can enter the soil and the rich top soil makes for healthy crops.\nCompare this to the picture on the right, where the ground is bare and crusted as it has lost much of its organic matter and nutrients because of HIGH EROSION.",
@@ -14,11 +14,11 @@
     },
     {
       "id": "soil_avoid",
-      "heading": "Planting along the contours.",
+      "heading": "Planting along the contours",
       "description": "Planting up and down rather than across sloping land may make weeding easier but it encourages soil erosion.",
       "examples": "Foraging crops, such as Napier grass and desmodium are useful crops to plant on sloped land.",
       "illustration_1": "soil_health/sloppy_plants.PNG",
-      "audio_transcript": "On sloppy land try planting across the contours rather than planting in vertical lines going up and down the hill. You can plant foraging crops like Napier grass and desmodium on sloped land, as these are good food for livestock and they slow down erosion by stopping the soil from being washed away.",
+      "audio_transcript": "On hilly land try planting across the contours rather than planting in vertical lines going up and down the hill. You can plant foraging crops like Napier grass and desmodium on sloped land, as these are good food for livestock and they slow down erosion by stopping the soil from being washed away.",
       "audio": "nutrition/audio/go_food.mp4"
     }
   ],

@@ -1,0 +1,55 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "diverse_plants",
+  "data_list_name": "diverse_plants",
+  "status": "released",
+  "rows": [
+    {
+      "id": "soil_rotation",
+      "heading": "Crop rotation",
+      "description": "Improve your soil health and avoid the build up of pests and diseases by growing several crops and rotating where you grow them on your farm.",
+      "examples": "Beans, a legume that helps fix nitrogen in your soil, are an ideal crop to grow before maize.",
+      "illustration_1": "soil_health/crop_rotation.PNG",
+      "audio_transcript": "Crop rotation, not planting the same crop in a field two seasons running, has three main uses:\n1. the diversity of crops attracts animals and insects which can pollinate your crops,\n2. it helps to maintain soil fertility as each plant has different nutritional needs,\n3. it prevents the build up of soilborne pests and diseases, which can't develop if their favourite food source disappears.",
+      "audio": "nutrition/audio/go_food.mp8"
+    },
+    {
+      "id": "soil_nitrogen",
+      "heading": "Get nitrogen rich soil",
+      "description": "Get nitrogen rich soil by growing legumes instead of paying for fertilizers!",
+      "examples": "Lablab (njahi) is a multi-purpose legume that grows well in moderately fertile soil. As a legume, it's root nodules help fix nitrogen in the soil, which other crops need in order to thrive. Lablab also produces lots of residues and grain!",
+      "illustration_1": "soil_health/lablab.PNG",
+      "illustration_2": "soil_health/maize_lablab.PNG",
+      "illustration_3": "soil_health/calli_gliri.PNG",
+      "audio_transcript": "Leguminous plants fix nitrogen in the soil and you can make the most of this natural fertiliser by crop rotation - changing where you grow crops every season.\nFor example, instead of paying for fertilizers, grow lablab before planting maize. Leguminous crops have high proteins and are associated with a bacteria called rhizobium found in their root nodules that help convert atmospheric nitrogen into nitrogen that is useful to other plants.\nOther examples of leguminous plants are calliandra and gliricidia. These are fodder trees that you can use to feed your livestock and they also regenerate after being cut down.\nMucuna, though not edible, can be used in restoring degraded soil as it produces lots of residues even in low nutrient conditions.",
+      "audio": "nutrition/audio/go_food.mp6"
+    },
+    {
+      "id": "soil_aforestry",
+      "heading": "Practice agroforestry",
+      "description": "Agroforestry means planting trees near your crops. It has many benefits, including preventing erosion, creating shade for your crops and providing compost matter which will improve your soil health.",
+      "examples": "Acacia protect crops in the dry season by creating shade, their bark can be fed to animals, and their leaves and branches can make good compost.",
+      "illustration_1": "soil_health/agroforestry.PNG",
+      "audio_transcript": "Crops growing under trees produce high yields as during the dry season the leaves create shade for the crops and in the wet season, the dry leaves create compost that feeds the soil and makes it fertile. A good example is acacia trees.",
+      "audio": "nutrition/audio/go_food.mp7"
+    },
+    {
+      "id": "soil_competition",
+      "heading": "Reduce plant-to-plant competition",
+      "description": "Avoid oversowing and plant-to-plant competition to achieve better yields.",
+      "examples": "If you are growing both maize and beans then plant at most 1 maize and bean per foot.",
+      "illustration_1": "soil_health/oversowing.PNG",
+      "audio_transcript": "More plants doesn't mean a bigger yield!\nOversowing makes plants compete for nutrients, water, and sunlight and so if you have too many plants close together, they are likely to be less productive as they can't get all of the minerals and nutrients they need.\nHow many plants you can grow on your field depends on how healthy and rich your soil is. Most good soils can support a maximum of about two plants per foot.",
+      "audio": "nutrition/audio/go_food.mp4"
+    },
+    {
+      "id": "soil_tolerant",
+      "heading": "Grow tolerent crops",
+      "description": "Select crop varieties that are ideally suited to your farm environment!",
+      "illustration_1": "soil_health/tolerant_crops.PNG",
+      "audio_transcript": "Tolerant crops are crop varieties that have been bred by scientists to tolerate specific soils, climatic conditions or diseases. What is your farm environment like? What crop varieties will produce the highest yields on your fields?",
+      "audio": "nutrition/audio/go_food.mp5"
+    }
+  ],
+  "_xlsxPath": "data_lists/soils/soil_data_lists.xlsx"
+}

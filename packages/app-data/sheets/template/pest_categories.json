@@ -310,6 +310,9 @@
       "_translations": {
         "value": {}
       },
+      "style_list": [
+        "height: 200px"
+      ],
       "_nested_name": "image",
       "_dynamicFields": {
         "value": [
@@ -334,6 +337,9 @@
       "_translations": {
         "value": {}
       },
+      "style_list": [
+        "height: 200px"
+      ],
       "_nested_name": "image",
       "_dynamicFields": {
         "value": [
