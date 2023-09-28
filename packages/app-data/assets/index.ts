@@ -1,62 +1,62 @@
 export const UNTRACKED_ASSETS = [];
 export const ASSETS_CONTENTS_LIST = {
-  "ae_principles/CIDSE/cidse_agrochemicals.png": {
+  "ae_principles/cidse/cidse_agrochemicals.png": {
     size_kb: 6,
     md5Checksum: "e45c6fdf33134a49071d00dbfbd88706",
   },
-  "ae_principles/CIDSE/cidse_biodiversity.png": {
+  "ae_principles/cidse/cidse_biodiversity.png": {
     size_kb: 4,
     md5Checksum: "c53a608d8d93c33a2d7c277ea255749a",
   },
-  "ae_principles/CIDSE/cidse_climate_change.png": {
+  "ae_principles/cidse/cidse_climate_change.png": {
     size_kb: 5.6,
     md5Checksum: "4d54ea01c3cbb8a07bef81b571423e7b",
   },
-  "ae_principles/CIDSE/cidse_communities.png": {
+  "ae_principles/cidse/cidse_communities.png": {
     size_kb: 8.7,
     md5Checksum: "014afee1ad487d5fb5ca3dbeab5366df",
   },
-  "ae_principles/CIDSE/cidse_decision_making.png": {
+  "ae_principles/cidse/cidse_decision_making.png": {
     size_kb: 5.6,
     md5Checksum: "b968fac8229248f596c04cc538320a61",
   },
-  "ae_principles/CIDSE/cidse_diets.png": {
+  "ae_principles/cidse/cidse_diets.png": {
     size_kb: 9.8,
     md5Checksum: "6129e2562129be5431b0837ccbf36218",
   },
-  "ae_principles/CIDSE/cidse_economic_resilience.png": {
+  "ae_principles/cidse/cidse_economic_resilience.png": {
     size_kb: 5.5,
     md5Checksum: "6b2ea370e72552069c04d887f6d17e22",
   },
-  "ae_principles/CIDSE/cidse_economic_solidarity.png": {
+  "ae_principles/cidse/cidse_economic_solidarity.png": {
     size_kb: 3.9,
     md5Checksum: "c2162a7da58e1765c65e1ac0dd0ed3a1",
   },
-  "ae_principles/CIDSE/cidse_economy.png": {
+  "ae_principles/cidse/cidse_economy.png": {
     size_kb: 6.6,
     md5Checksum: "1900f4b8037614eeb5ccce25807a135a",
   },
-  "ae_principles/CIDSE/cidse_empowerment.png": {
+  "ae_principles/cidse/cidse_empowerment.png": {
     size_kb: 13.7,
     md5Checksum: "753b41e68219f623ad89fce48a3f7ee7",
   },
-  "ae_principles/CIDSE/cidse_food_governance.png": {
+  "ae_principles/cidse/cidse_food_governance.png": {
     size_kb: 14.7,
     md5Checksum: "8bc6c5e0c409ec8849d9ae3da4247d0f",
   },
-  "ae_principles/CIDSE/cidse_integration.png": {
+  "ae_principles/cidse/cidse_integration.png": {
     size_kb: 6.5,
     md5Checksum: "b46894a4cb3a5d4ee73ab5f12f4fe110",
   },
-  "ae_principles/CIDSE/cidse_knowledge.png": {
+  "ae_principles/cidse/cidse_knowledge.png": {
     size_kb: 11.2,
     md5Checksum: "73bb6e5b3c56046d2199c50f179f98d7",
   },
-  "ae_principles/CIDSE/cidse_policies.png": {
+  "ae_principles/cidse/cidse_policies.png": {
     size_kb: 3.4,
     md5Checksum: "a22788cc4656a02604aa1568fc338855",
   },
-  "ae_principles/CIDSE/cidse_rights.png": {
+  "ae_principles/cidse/cidse_rights.png": {
     size_kb: 5.1,
     md5Checksum: "d5b741db3de91f7c2294abb404f3f275",
   },
@@ -140,47 +140,47 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 275.8,
     md5Checksum: "e70b96cb8b66020e782291cfe9009e23",
   },
-  "ae_principles/IFA/ifa_autonomy.png": {
+  "ae_principles/ifa/ifa_autonomy.png": {
     size_kb: 543.3,
     md5Checksum: "254ee812810fda796d2153f660fc6163",
   },
-  "ae_principles/IFA/ifa_cosmovision.png": {
+  "ae_principles/ifa/ifa_cosmovision.png": {
     size_kb: 618,
     md5Checksum: "f90c76a216e1f97c1bdc0ac80642d345",
   },
-  "ae_principles/IFA/ifa_knowing.png": {
+  "ae_principles/ifa/ifa_knowing.png": {
     size_kb: 389.6,
     md5Checksum: "aee943c5f6669b5f91588fa92463b871",
   },
-  "ae_principles/IFA/ifa_movements.png": {
+  "ae_principles/ifa/ifa_movements.png": {
     size_kb: 607.8,
     md5Checksum: "e491704cf5ab860e8ba7847b3281b3d8",
   },
-  "ae_principles/IFA/ifa_political.png": {
+  "ae_principles/ifa/ifa_political.png": {
     size_kb: 440.2,
     md5Checksum: "67b58295e0771eea68d6c3754a7cca8c",
   },
-  "ae_principles/IFA/ifa_resistance.png": {
+  "ae_principles/ifa/ifa_resistance.png": {
     size_kb: 507.2,
     md5Checksum: "7a43632e2492f5915fcfae430f150281",
   },
-  "ae_principles/IFA/ifa_resistance1.png": {
+  "ae_principles/ifa/ifa_resistance1.png": {
     size_kb: 323,
     md5Checksum: "af5a8c5f0ce6c19e35411732587b2ab4",
   },
-  "ae_principles/IFA/ifa_rights.png": {
+  "ae_principles/ifa/ifa_rights.png": {
     size_kb: 568.4,
     md5Checksum: "9241cd72fec9c367cbfa11fbbe132e88",
   },
-  "ae_principles/IFA/ifa_territories.png": {
+  "ae_principles/ifa/ifa_territories.png": {
     size_kb: 333.6,
     md5Checksum: "051dbb966be9a45cc083f9f9b9355c54",
   },
-  "ae_principles/IFA/ifa_women.png": {
+  "ae_principles/ifa/ifa_women.png": {
     size_kb: 247.1,
     md5Checksum: "2d4eba67578031fe81d04f3daff12fe3",
   },
-  "ae_principles/IFA/ifa_youth.png": {
+  "ae_principles/ifa/ifa_youth.png": {
     size_kb: 434.8,
     md5Checksum: "57c01af46bdded7e7b6efaea164d2b5b",
   },
@@ -199,10 +199,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/0060492bc165a43e9dfd6cf3821ffe7de003b4f6.jpg": {
     size_kb: 225.5,
     md5Checksum: "a44104ab6b3d8d1d3b365a82aafe6885",
-  },
-  "full/00cc723c3026bda3ca9c93185ee87d0a66b442f9.jpg": {
-    size_kb: 21.9,
-    md5Checksum: "741aefeb1700da69b6d760595788a42f",
   },
   "full/00fa6467f5ae39365429fb0670dff0bd7af69635.jpg": {
     size_kb: 93.4,
@@ -388,10 +384,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 23.7,
     md5Checksum: "ec7cad2a3229eab03d196eee2d034b02",
   },
-  "full/0c857263ae74a71431f2239a2041345f07390fe0.jpg": {
-    size_kb: 20,
-    md5Checksum: "dab465581597daa69ce21507ac06ffe8",
-  },
   "full/0c9503c9b6bbd7bf45bdebb16af5040d9b14e168.jpg": {
     size_kb: 171.2,
     md5Checksum: "608457457d27df2d0bed0dba1ac2fa08",
@@ -400,10 +392,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 118.2,
     md5Checksum: "bec6adf8b0ad24b6bbf2232f28939303",
   },
-  "full/0da521f5fe76fbc74232dd60e39202dcb84489c6.jpg": {
-    size_kb: 26.7,
-    md5Checksum: "aa1df74904170dbd5e524cda85c4baf9",
-  },
   "full/0ddae8b39c6ba3409602594f13f8448ed06087d9.jpg": {
     size_kb: 14.3,
     md5Checksum: "3b8a3b152bcb7596ad76fd2b55e342cf",
@@ -411,10 +399,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/0e231e89e8091f722c97de594b3e4c57319b5bba.jpg": {
     size_kb: 33.4,
     md5Checksum: "65d41315ab53437821ea0ebf456fb436",
-  },
-  "full/0e943a46d6cba5c19d8e4037f5d78c51eaf66543.jpg": {
-    size_kb: 24.4,
-    md5Checksum: "341a973066cc8419c789285f8fb123ef",
   },
   "full/0f1dbc27301567afb8800eb074966925db9e0836.jpg": {
     size_kb: 355.3,
@@ -431,10 +415,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/0ff4e03a6f3814f853c22fc4c45ac3d5d86d2802.jpg": {
     size_kb: 16.3,
     md5Checksum: "b1bf167f5413fc22d05923a976f1bd2d",
-  },
-  "full/0ff6521aff26c38f0ccd7451f2f12af4745079bb.jpg": {
-    size_kb: 34.1,
-    md5Checksum: "50e9a091d585af96d5cd80f889822ae5",
   },
   "full/1008bf331e320d7b36e6b63ab467632da66cf6dd.jpg": {
     size_kb: 19.9,
@@ -463,10 +443,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/10f83d07d8515ef40b3677945746e00a7e8cf6bc.jpg": {
     size_kb: 23.5,
     md5Checksum: "ce229ba4d515c092471e79dbc3f3e3d2",
-  },
-  "full/112191c68007dcfd812f6bacc66062ca2b2c4a48.jpg": {
-    size_kb: 12.4,
-    md5Checksum: "5c081b0afcc02c48ee9f83cf36966607",
   },
   "full/1149c8b3571361a2ed59d5a4095033d56ce466a4.jpg": {
     size_kb: 18.3,
@@ -648,10 +624,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 141.3,
     md5Checksum: "97d5ce294eed0e4d7c45b0a1e0c29029",
   },
-  "full/1aabe1fdfdd8a206fd399e8c752233d812bf7c34.jpg": {
-    size_kb: 13.4,
-    md5Checksum: "ed9c72253b73251914de83bb5b64258c",
-  },
   "full/1ae5d0fba85f35a36959504e70dce2fd10eba849.jpg": {
     size_kb: 37.2,
     md5Checksum: "9dfe3997135fb158ce3e22011f96e0ce",
@@ -747,10 +719,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/1fae5858a47fe3406184eedbba97a4b670f2eb9b.jpg": {
     size_kb: 42.8,
     md5Checksum: "e7361277a2ffdd2453cac1503efaba57",
-  },
-  "full/205a619fae4409664b8e0cda7eab5578f1d21a89.jpg": {
-    size_kb: 31.1,
-    md5Checksum: "2a65a2da621ce771c9655bf0dabf51cc",
   },
   "full/20b1b9961afe201683a4dc12169280a38605f80e.jpg": {
     size_kb: 26.3,
@@ -903,10 +871,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/2a56300fd9003046d679c67f4a6c735928a7f7c8.jpg": {
     size_kb: 28.8,
     md5Checksum: "0d016d2425c6d59a162a08471b328c54",
-  },
-  "full/2aab1d782fa8a2ce6e0e593a5aa8aec52e4e615e.jpg": {
-    size_kb: 18.7,
-    md5Checksum: "3969c558ee866f0d3d1d36e82ff5337c",
   },
   "full/2ae168ad752b276d1b7765ce9a57b2525ba59e81.jpg": {
     size_kb: 16,
@@ -1072,10 +1036,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 192.5,
     md5Checksum: "9da162108a0af699a5813830b4063e00",
   },
-  "full/3555cb9eb970af4a829ced95d9e7ffc975b01295.jpg": {
-    size_kb: 26.6,
-    md5Checksum: "2c5d667dc32c3da96d8c03ef4325b1cb",
-  },
   "full/356259c77890add92ab4f8d6f2d4d9b434e303e5.jpg": {
     size_kb: 91.6,
     md5Checksum: "655401fd191d456c8f67ab153b4a9916",
@@ -1091,10 +1051,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/35d66c0743d12bf36e1a77613b412a9b9b43cc4a.jpg": {
     size_kb: 79.6,
     md5Checksum: "0259ced233da1b50f388eb9582ecaa89",
-  },
-  "full/36063159a96c2980f22d1457dd1fc428dfc33ee8.jpg": {
-    size_kb: 242,
-    md5Checksum: "b39fc498d82a30a0e6190dfd59b2aec5",
   },
   "full/36266a4ade1ad0dada0a5121b0968ca22f67d6bc.jpg": {
     size_kb: 20.1,
@@ -1244,10 +1200,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 80.9,
     md5Checksum: "7b6ae8f16513df02848417cd4b9d3dc2",
   },
-  "full/3fcdb023a4b39fe188b4ef8a5dec706b4affe353.jpg": {
-    size_kb: 33.9,
-    md5Checksum: "4913f6047612a9595138d3a04b014e53",
-  },
   "full/402bf797eeea0437d0fef34a6e67288f4905cccd.jpg": {
     size_kb: 6.6,
     md5Checksum: "c84981617966bdedff7f37d8ad2dd1ca",
@@ -1344,10 +1296,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 9.3,
     md5Checksum: "6802e0014c89b0c65dad5e43c9068854",
   },
-  "full/44a961f273b08b1d7224fca6aced01ffaf0344cd.jpg": {
-    size_kb: 8.5,
-    md5Checksum: "04a13019faf5b2c6f7f06ad96dd48fa0",
-  },
   "full/44ce65513b25edce3f40081c3a3841099a22cd0c.jpg": {
     size_kb: 11,
     md5Checksum: "7484413f870d299459f16040843970d7",
@@ -1383,14 +1331,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/484809425d572cc03b76c1e27c3d5b824df3c054.jpg": {
     size_kb: 23.5,
     md5Checksum: "ce229ba4d515c092471e79dbc3f3e3d2",
-  },
-  "full/487030c342c656e22a5094207be15a75d85207ab.jpg": {
-    size_kb: 10.8,
-    md5Checksum: "1edafd555d8e92596c2e590b73d63657",
-  },
-  "full/48ddec33c8da47eb377763856b272711662adf01.jpg": {
-    size_kb: 17,
-    md5Checksum: "2b8626fe8b7cd26c4a82e5c35f4a1fbc",
   },
   "full/4924d8300d34d36aa5a1badfd32fb2c954780ea0.jpg": {
     size_kb: 12.1,
@@ -1596,10 +1536,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 230.3,
     md5Checksum: "6e6b8ae3f5530d3998e612bcd8c75391",
   },
-  "full/570cbbb613115d96df89bffef5cebc8bb62274c0.jpg": {
-    size_kb: 9.1,
-    md5Checksum: "df0315a6bca7036def833b31d4830592",
-  },
   "full/570ecbe192dbab4aa82c8188f7f5cd978185d455.jpg": {
     size_kb: 31.3,
     md5Checksum: "ee74178505aa79d4e08f9e293b838eb8",
@@ -1660,10 +1596,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 74.2,
     md5Checksum: "fdd35250bcec6cc9cecb5a8906ea3160",
   },
-  "full/5be2bd3ccbcc468fde4217e524fe801abd1d7125.jpg": {
-    size_kb: 26.3,
-    md5Checksum: "4ca192e855d1d87ee178d337cc407445",
-  },
   "full/5c2a7d42e350a9ba137abf479310908bc9886a38.jpg": {
     size_kb: 166.5,
     md5Checksum: "925e7e79066d11af7dc545846a462822",
@@ -1704,10 +1636,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 19.7,
     md5Checksum: "9363bc0b834898b952ef3dee88740676",
   },
-  "full/5e41c74e11961146f7f5b9ab2d027ea52a6a2445.jpg": {
-    size_kb: 57.3,
-    md5Checksum: "029c05e6b0932764f8cd08f3e613af51",
-  },
   "full/5e633c91f8da359602a17929a6728e1f04e82c16.jpg": {
     size_kb: 97.3,
     md5Checksum: "9056fd990ebf846488d0207af7542d7e",
@@ -1731,10 +1659,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/60a6175ab2823507dc3e1f2291b075fb98fa9798.jpg": {
     size_kb: 398.8,
     md5Checksum: "10c56e5b3fdb324778c53d6b956d7eeb",
-  },
-  "full/60ab3a726fda3612a9451ba0c7153508b154198d.jpg": {
-    size_kb: 760.8,
-    md5Checksum: "abcc0b9641da420f2a201eafe40760c7",
   },
   "full/60d4a08250161c799bcb7f0b77fb482af66242cc.jpg": {
     size_kb: 403.9,
@@ -1783,10 +1707,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/62b274fc470959e5b20cca1f9dee8a7a935d4215.jpg": {
     size_kb: 379.9,
     md5Checksum: "bbcf74e37cc738877358a9ed49d98686",
-  },
-  "full/6343ca91de59d89fffed991d48abed52cc838513.jpg": {
-    size_kb: 31.8,
-    md5Checksum: "6603b1ab2f6ae615bc287815aa156142",
   },
   "full/636ccd055709f2e6679fae3ec224f6b5278263a4.jpg": {
     size_kb: 29.8,
@@ -1895,10 +1815,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/69492750b857ee16033a46e42c33c9e9753d3ebb.jpg": {
     size_kb: 17.3,
     md5Checksum: "598c1a7e2541505c24c0d9780eab000f",
-  },
-  "full/695c295b2c7e61753ea01df5979a7dd82e4d835c.jpg": {
-    size_kb: 28.7,
-    md5Checksum: "705707c43b7ed88fac41dc353a18c7d6",
   },
   "full/698504ab0aa4590e4089fee45aaa2e847b9d152d.jpg": {
     size_kb: 26.9,
@@ -2031,10 +1947,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/740a9d92eecfc8c656dee3618b373eb0cbc55db7.jpg": {
     size_kb: 39.2,
     md5Checksum: "8236adf214c271db182da450a9ae0ccd",
-  },
-  "full/743303cb0dba8c683d3a01be2713012713744f31.jpg": {
-    size_kb: 40.5,
-    md5Checksum: "2d7d47309ed041a76526552acb041fba",
   },
   "full/74881b4bf690d05f56f3cbd63569de6a6cee837a.jpg": {
     size_kb: 29.9,
@@ -2228,10 +2140,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 27.6,
     md5Checksum: "0e33fbf82f8d95fae5ffad5e20e84e64",
   },
-  "full/815d93589eea548ece8f3ca18ab7aa0577ddf4d3.jpg": {
-    size_kb: 16.6,
-    md5Checksum: "e59241efb4c4b91423d15e14a849810d",
-  },
   "full/81760714edc6490c76de6d279e46a253f7c73b40.jpg": {
     size_kb: 175.4,
     md5Checksum: "c782221a23d63001a38fe15a60797e3e",
@@ -2395,10 +2303,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/8d2b928d19b1a375807636ff37815b8b63b684b4.jpg": {
     size_kb: 7.7,
     md5Checksum: "9d9cfb070f9b7a777ccbb9ce5b177acf",
-  },
-  "full/8e235ba1223062796872ad367cf00883876e24af.jpg": {
-    size_kb: 35.5,
-    md5Checksum: "9b2b563aaf0c49406320d8b3c7fec7bc",
   },
   "full/8ef32af76f007313318518f6394df205c9e0c6cc.jpg": {
     size_kb: 39.8,
@@ -2580,10 +2484,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 21.3,
     md5Checksum: "79f69a1e73e6dbf991812778bb43e418",
   },
-  "full/9ac6a1a06f1a770b45ee7505705074dc11c7f1bd.jpg": {
-    size_kb: 12.7,
-    md5Checksum: "24ad597e9474a71643736a8a2db2d227",
-  },
   "full/9ae787012a4fde49985c21bdea4cb636c48ca64c.jpg": {
     size_kb: 13.1,
     md5Checksum: "80a548adca266c20d67a4c7abd379182",
@@ -2692,10 +2592,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 15.7,
     md5Checksum: "3a7a11b40d387f298b09ac0bd7cbd4b9",
   },
-  "full/a266e35887c9a67ced546944f55f0537a08b1d6f.jpg": {
-    size_kb: 106,
-    md5Checksum: "827b386ab58b22d2c8a232a29755b098",
-  },
   "full/a273fbdf3d7d1c17e168452e0c45f52d82040d4d.jpg": {
     size_kb: 294.6,
     md5Checksum: "d900b3859c242741feb9161758cb5ab2",
@@ -2723,10 +2619,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/a402ee21c9285de95a9784dec931927787efb332.jpg": {
     size_kb: 70.3,
     md5Checksum: "8db3d92c43744e12ffdf5eabc05be717",
-  },
-  "full/a4126e23f8a77ce9e0924860cfd6ed754adf01bd.jpg": {
-    size_kb: 35.6,
-    md5Checksum: "ab515bdbfab1ceb35178f49e999a7afb",
   },
   "full/a41fe4e33bde672bc653bc6c1d6866253e160f97.jpg": {
     size_kb: 335.3,
@@ -3028,10 +2920,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 9.4,
     md5Checksum: "21cb521aa555c8fdabb6d77999c71fef",
   },
-  "full/bb3c76b90ad5db7db9dd2fdf1486fdb3359f4b59.jpg": {
-    size_kb: 9.2,
-    md5Checksum: "67433b0c1c81025f8c6690edfdc7bd1c",
-  },
   "full/bba0b50b11634478e0165f0d7c2c36be049001a9.jpg": {
     size_kb: 9.6,
     md5Checksum: "929f9055f77aca212b18c48b15502c40",
@@ -3099,10 +2987,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/c17eef1646dbf376bca45777d81ac646030d39d0.jpg": {
     size_kb: 13.4,
     md5Checksum: "9cd01e2f964262e73e3d662fd4a775d4",
-  },
-  "full/c1ba3fd914cb10b2cef44f2d121f1ee2ad0d8540.jpg": {
-    size_kb: 3.6,
-    md5Checksum: "23cb497bd2aef3bd55fbd2db749f3dc7",
   },
   "full/c1ef53d645bf937a9c2e76febec712a13afb73d7.jpg": {
     size_kb: 17.4,
@@ -3184,17 +3068,9 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 35,
     md5Checksum: "f703b6d6409c08f5710078acb1ef1673",
   },
-  "full/c7f6b8f274f61e4a58a3a821d4b9e9405e622c3e.jpg": {
-    size_kb: 19.7,
-    md5Checksum: "32e3a6d91371db6f33dadbf196bfb785",
-  },
   "full/c8534186d4197e7ede953715f4c12c05bf027739.jpg": {
     size_kb: 18.8,
     md5Checksum: "7f25896ffc7428e2e97dad150fb5ea89",
-  },
-  "full/c86983843fa77b7b998f3389849fd01e1b0add3f.jpg": {
-    size_kb: 19.2,
-    md5Checksum: "042c36340d4acd614641edcd842aac69",
   },
   "full/c890593ddc6717dda5c003ffcf1c1b530e3e72ba.jpg": {
     size_kb: 795.7,
@@ -3356,10 +3232,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 16.1,
     md5Checksum: "2c39f66806838f2cd5fdc86a1a99a162",
   },
-  "full/d1d647fa687635597c796eb8bcd45d1730107c66.jpg": {
-    size_kb: 23.4,
-    md5Checksum: "37a1d088562324ae8d16ee41b920f8c7",
-  },
   "full/d1fbb4dbdd7bd912f6e63e220e05d3dc1f35295c.jpg": {
     size_kb: 14.7,
     md5Checksum: "8343516ed6789c750c149452d4a993e9",
@@ -3456,10 +3328,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 32.4,
     md5Checksum: "2d297a2814e4f438504199ebdc5e222e",
   },
-  "full/d81b116531472cab79c0fa896a02374642d1ea46.jpg": {
-    size_kb: 21.6,
-    md5Checksum: "cca683b6244e53fb459d2b15ca19d57f",
-  },
   "full/d85fa002993aa1c42f8049722619b12fb82dc883.jpg": {
     size_kb: 788.5,
     md5Checksum: "d1142883ddd0c139a487dd42283e347c",
@@ -3523,10 +3391,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/dbadb528e19dd07873fa1581580a26030e20dba4.jpg": {
     size_kb: 23.7,
     md5Checksum: "4ecbe75473286d45e0d5e8d614ad7aa6",
-  },
-  "full/dbbbe6874a059594fc63d5f5777a6083ea2e6470.jpg": {
-    size_kb: 4.9,
-    md5Checksum: "96de50f606d2c2d06cb4e426ffe87051",
   },
   "full/dca3c26e55b185f9866df5b48168bbdc04c9f6da.jpg": {
     size_kb: 56.3,
@@ -3604,10 +3468,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 22.3,
     md5Checksum: "9e499e652db7ffa5fca6e984ee3d7c0b",
   },
-  "full/e12900519960e54a60634e88bd19adb24e680644.jpg": {
-    size_kb: 41.3,
-    md5Checksum: "157688bbb455aa6718abe5d6ea7a21ba",
-  },
   "full/e132ab5cbf7ef7ae9d045293163e7a0b84044c2f.jpg": {
     size_kb: 760.8,
     md5Checksum: "abcc0b9641da420f2a201eafe40760c7",
@@ -3639,14 +3499,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/e27003a829a05c33503862255930edde0db4fbc4.jpg": {
     size_kb: 9.5,
     md5Checksum: "a67eb3c25da3d7af136bf9519dffaf73",
-  },
-  "full/e285961f1a41fe0a6aaefdddc96cca507584b478.jpg": {
-    size_kb: 15.1,
-    md5Checksum: "85dabcb4a6bd5e6d8d96f8cdcc14628e",
-  },
-  "full/e28945a69b5d575ef26079cf718e734d3cba4b2f.jpg": {
-    size_kb: 30.7,
-    md5Checksum: "8d5dbcdbc0a5bcb809388b1c9a550a95",
   },
   "full/e2a3950fc7535ff86930b520785af1f2940e8efc.jpg": {
     size_kb: 575.7,
@@ -3804,10 +3656,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 16.3,
     md5Checksum: "522680221cc13fca7af61a6cc4d1e7fb",
   },
-  "full/eb21cea425f0469ec7928d7398110af211078bac.jpg": {
-    size_kb: 332.9,
-    md5Checksum: "9e1cc8e7a9ab98ba587f83016b753e97",
-  },
   "full/eb570c7c443b83575b12b32f57a13efbce251969.jpg": {
     size_kb: 16.4,
     md5Checksum: "f66c4dfadd9e4901536858d583141166",
@@ -3944,10 +3792,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 47.5,
     md5Checksum: "862adfec4590706db406b3d085023bba",
   },
-  "full/f672489aafbeaef40035723a270462839c33931a.jpg": {
-    size_kb: 15.5,
-    md5Checksum: "0841f6fcdfa4d0fa4ae2d2557aaeec39",
-  },
   "full/f71c0e2538941121dbd9059180c62d39e4877e18.jpg": {
     size_kb: 22.6,
     md5Checksum: "2bec76b8397b3b244211b48cdce55d69",
@@ -3987,10 +3831,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/f9b045511e9cf1e73959236830b4314c905ff560.jpg": {
     size_kb: 206.2,
     md5Checksum: "723320eb37a1e55be7c7f5dec6faaf86",
-  },
-  "full/f9b92d0898f92dfe51e4bdc46a2e9b2806969ead.jpg": {
-    size_kb: 17.1,
-    md5Checksum: "5ca7f2ea48a6d2a7a83eb681455b3e50",
   },
   "full/f9e12d261ce0b20ea8457fa4a453b9fef07c0fcf.jpg": {
     size_kb: 36.1,
@@ -4040,10 +3880,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 27.2,
     md5Checksum: "654e4005a9cad0fa41d222e0b15d794c",
   },
-  "full/fd1a542f1268d283206e3107cbef4fc55fc56cc4.jpg": {
-    size_kb: 502.4,
-    md5Checksum: "9b66741ea62eb026d6f018eee0506778",
-  },
   "full/fd569a08f82c846d71f01735c671fd4aac095297.jpg": {
     size_kb: 380.3,
     md5Checksum: "2ca0889e12342fbb410e60fa9b407573",
@@ -4091,10 +3927,6 @@ export const ASSETS_CONTENTS_LIST = {
   "full/ff57ad5f96e4e945a901c8e95d49cc27fc83075d.jpg": {
     size_kb: 13.4,
     md5Checksum: "8e1fd1d7b2850587f84acc98610c9809",
-  },
-  "full/ffc33fe05d855553383de9b73c07da523f365796.jpg": {
-    size_kb: 11.7,
-    md5Checksum: "412667060fe45cecff3c5179f3293c1e",
   },
   "full/ffe0f6aca9343f0942a820a2d1a0ff3578cc225b.jpg": {
     size_kb: 201.1,
@@ -4204,6 +4036,26 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 4138,
     md5Checksum: "d003460c2a932d35863948de06216d06",
   },
+  "nutrition/Diets deficient in iron.png": {
+    size_kb: 151.3,
+    md5Checksum: "f6acfd3bc290a6af1d8ae6244b526a2c",
+  },
+  "nutrition/Milk.png": {
+    size_kb: 139.2,
+    md5Checksum: "d10105c3bf0346adc8dec779883a6c1d",
+  },
+  "nutrition/Mursik.png": {
+    size_kb: 240.7,
+    md5Checksum: "e1df009e91c1685ecb5f750dba6726b8",
+  },
+  "nutrition/Uji.png": {
+    size_kb: 199.3,
+    md5Checksum: "47145b595d5b9d5327cece05a2979e3d",
+  },
+  "nutrition/Water.png": {
+    size_kb: 116.1,
+    md5Checksum: "0e3d8f88f630fc477fa4e916e240e88b",
+  },
   "nutrition/audio/glow_food.mp3": {
     size_kb: 358,
     md5Checksum: "c688b2706690f626003d484d6c1f6ef5",
@@ -4236,17 +4088,117 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 532.6,
     md5Checksum: "08620abefa669b8181589fbec7676383",
   },
-  "nutrition/Diets deficient in iron.png": {
-    size_kb: 151.3,
-    md5Checksum: "f6acfd3bc290a6af1d8ae6244b526a2c",
-  },
   "nutrition/elderly.png": {
     size_kb: 273.2,
     md5Checksum: "e52932b1b8bc913ed25ece1ba19bee4b",
   },
-  "nutrition/food_for_children.png": {
-    size_kb: 170.3,
-    md5Checksum: "ec9d6101550c5b113fd357845cf506b8",
+  "nutrition/food/IMG_20230821_064335.jpg": {
+    size_kb: 258.5,
+    md5Checksum: "88328e4c846046cf5d9812c52ea35ff0",
+  },
+  "nutrition/food/IMG_20230821_064507.jpg": {
+    size_kb: 2150.9,
+    md5Checksum: "18ca97411469195adfa97c59bd32bd91",
+  },
+  "nutrition/food/IMG_20230821_064959.jpg": {
+    size_kb: 196.7,
+    md5Checksum: "3d1c07ac6770bce3e8ca4fc5f59c19cc",
+  },
+  "nutrition/food/IMG_20230821_065426.jpg": {
+    size_kb: 220.3,
+    md5Checksum: "29ef976f2c35e7571255037bd3bc9313",
+  },
+  "nutrition/food/IMG_20230821_065605.jpg": {
+    size_kb: 125.8,
+    md5Checksum: "4dd4b657e7149e9004d8d886554502df",
+  },
+  "nutrition/food/IMG_20230821_070043.jpg": {
+    size_kb: 285.6,
+    md5Checksum: "5902d5a1e9c74a89ff45cee19be7b850",
+  },
+  "nutrition/food/IMG_20230821_070226.jpg": {
+    size_kb: 139.7,
+    md5Checksum: "e7079765a8563202cd151613e2cbdff4",
+  },
+  "nutrition/food/IMG_20230821_070334.jpg": {
+    size_kb: 89.1,
+    md5Checksum: "8a5e658d52517e662ced57294495ea9b",
+  },
+  "nutrition/food/IMG_20230821_070515.jpg": {
+    size_kb: 276.9,
+    md5Checksum: "cc0ad5d2eac2b8eb4331f0009f76a582",
+  },
+  "nutrition/food/IMG_20230821_071244.jpg": {
+    size_kb: 135.2,
+    md5Checksum: "55e4d7f72498af5b9ece506493374d49",
+  },
+  "nutrition/food/IMG_20230821_071548.jpg": {
+    size_kb: 185,
+    md5Checksum: "62143226b3f15d29eed45f6c82aa5a68",
+  },
+  "nutrition/food/IMG_20230821_071945.jpg": {
+    size_kb: 141.6,
+    md5Checksum: "34205f0cc1c0b96a0480ab9a74efce6e",
+  },
+  "nutrition/food/IMG_20230821_072344.jpg": {
+    size_kb: 115.9,
+    md5Checksum: "d25b2ef8946684de3acb2742c6da3dab",
+  },
+  "nutrition/food/IMG_20230821_074525.jpg": {
+    size_kb: 167,
+    md5Checksum: "10895f77b260bbd57502e59b417cbebc",
+  },
+  "nutrition/food/IMG_20230821_074647.jpg": {
+    size_kb: 173.8,
+    md5Checksum: "dc4e7fe1415bd7ce0567ac87411ae2b9",
+  },
+  "nutrition/food/IMG_20230821_074814.jpg": {
+    size_kb: 89.7,
+    md5Checksum: "8d2b976f6cc0c00407c92d57b5678ac4",
+  },
+  "nutrition/food/IMG_20230821_091133.jpg": {
+    size_kb: 253.1,
+    md5Checksum: "31a38719a4efc33e03c2c083a2a7ae94",
+  },
+  "nutrition/food/IMG_20230821_100642.jpg": {
+    size_kb: 201.5,
+    md5Checksum: "a070ebb01f757dfcfe17608bb8319386",
+  },
+  "nutrition/food/IMG_20230821_104524.jpg": {
+    size_kb: 5389.4,
+    md5Checksum: "a2700cb948d93fc0cfc84d0ae0795de0",
+  },
+  "nutrition/food/IMG_20230821_104608.jpg": {
+    size_kb: 84.8,
+    md5Checksum: "26e8ae95890271264192710f0611bd83",
+  },
+  "nutrition/food/IMG_20230821_104733.jpg": {
+    size_kb: 620.6,
+    md5Checksum: "5540fe39ada81aa1c3d0981adf238ff6",
+  },
+  "nutrition/food/IMG_20230821_105139.jpg": {
+    size_kb: 182.1,
+    md5Checksum: "91427d22aea1fe3bccd025007e33dba5",
+  },
+  "nutrition/food/IMG_20230821_120943.jpg": {
+    size_kb: 3480.9,
+    md5Checksum: "78ab8fe014c5c7427a4b677b47a9fd3d",
+  },
+  "nutrition/food/IMG_20230821_121013.jpg": {
+    size_kb: 4244.4,
+    md5Checksum: "0fbcb37a9ef50c5f8406860ff33c4724",
+  },
+  "nutrition/food/IMG_20230821_121726.jpg": {
+    size_kb: 1890.1,
+    md5Checksum: "7c53994d071de8d317af5dae25c89e68",
+  },
+  "nutrition/food/IMG_20230904_091006.jpg": {
+    size_kb: 445.7,
+    md5Checksum: "4b6c67b2d25fc95f01fc809155bc0b7c",
+  },
+  "nutrition/food_for_children.jpg": {
+    size_kb: 26.6,
+    md5Checksum: "1b51d46e47a90cbd1ca1ad92189f747d",
   },
   "nutrition/food_types_glow.png": {
     size_kb: 1589.1,
@@ -4300,14 +4252,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 183.6,
     md5Checksum: "178f2def5b7f3255b235645064859a28",
   },
-  "nutrition/Milk.png": {
-    size_kb: 139.2,
-    md5Checksum: "d10105c3bf0346adc8dec779883a6c1d",
-  },
-  "nutrition/Mursik.png": {
-    size_kb: 240.7,
-    md5Checksum: "e1df009e91c1685ecb5f750dba6726b8",
-  },
   "nutrition/nutrition icon.png": {
     size_kb: 247.8,
     md5Checksum: "f459a3cfe4086743bb98e4be27201e6e",
@@ -4332,17 +4276,13 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 25.5,
     md5Checksum: "44ebbb5c7a0fa7faec76c4b517a65047",
   },
+  "nutrition/standard_heights_weights.jpg": {
+    size_kb: 31.7,
+    md5Checksum: "32e2c567735dc7a3524bbc6291f855d5",
+  },
   "nutrition/super_nutritious_new_crops.png": {
     size_kb: 196.2,
     md5Checksum: "257843f7a3360d72bb77f34b7052fbc4",
-  },
-  "nutrition/Uji.png": {
-    size_kb: 199.3,
-    md5Checksum: "47145b595d5b9d5327cece05a2979e3d",
-  },
-  "nutrition/Water.png": {
-    size_kb: 116.1,
-    md5Checksum: "0e3d8f88f630fc477fa4e916e240e88b",
   },
   "nutrition/zinc.png": {
     size_kb: 211.3,
@@ -4376,13 +4316,13 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 141.6,
     md5Checksum: "bf024d265433f40e8df5b275e1dd4927",
   },
-  "pests/flowers_on_margins_of_fields.PNG": {
-    size_kb: 166.3,
-    md5Checksum: "abe410c5e184e52ecde78d7cceca43fc",
-  },
   "pests/flower_strips_on_the_edges.png": {
     size_kb: 638.1,
     md5Checksum: "f8f094cf2a37d460143f6e3a0483ddf9",
+  },
+  "pests/flowers_on_margins_of_fields.PNG": {
+    size_kb: 166.3,
+    md5Checksum: "abe410c5e184e52ecde78d7cceca43fc",
   },
   "pests/food_crops_with_flowers.png": {
     size_kb: 1174.1,
@@ -4484,6 +4424,10 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 74.8,
     md5Checksum: "9ea9c385a1391a98e61ae8be472367d7",
   },
+  "pests/spider_predators.png": {
+    size_kb: 147.9,
+    md5Checksum: "421821c1706c78c3bd812caec1160915",
+  },
   "pests/spidermite_1.png": {
     size_kb: 272.3,
     md5Checksum: "6ce289869e7e13bf81982497a215401d",
@@ -4491,10 +4435,6 @@ export const ASSETS_CONTENTS_LIST = {
   "pests/spidermite_2.png": {
     size_kb: 50.3,
     md5Checksum: "2f228818f90ffb22e23c4ea30c1ef83c",
-  },
-  "pests/spider_predators.png": {
-    size_kb: 147.9,
-    md5Checksum: "421821c1706c78c3bd812caec1160915",
   },
   "pests/thrips.png": {
     size_kb: 95.1,
@@ -6160,6 +6100,122 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 0.5,
     md5Checksum: "6508bf39f8cb3c3ab0f30b96994a6cbc",
   },
+  "soil_health/Biochar.PNG": {
+    size_kb: 299.1,
+    md5Checksum: "6ec00ff2dcee0ebf7e3525a8057ec23e",
+  },
+  "soil_health/agroforestry.PNG": {
+    size_kb: 16.5,
+    md5Checksum: "9b7f109d4a70a79071b4f1b4d8bfe67c",
+  },
+  "soil_health/animal_bedding.PNG": {
+    size_kb: 124,
+    md5Checksum: "b66a960da8de04ce6a887e2094de7d85",
+  },
+  "soil_health/boma.PNG": {
+    size_kb: 378.8,
+    md5Checksum: "d3f348549cddd4258de0450d0c40c2b9",
+  },
+  "soil_health/calli_gliri.PNG": {
+    size_kb: 322.8,
+    md5Checksum: "3b0172e936bd63836a00b95d43f68063",
+  },
+  "soil_health/chicken_tractor.PNG": {
+    size_kb: 172.2,
+    md5Checksum: "d6923b275d2dc1aad47b37ce6e0ab37c",
+  },
+  "soil_health/cover_crop.PNG": {
+    size_kb: 54.5,
+    md5Checksum: "87c60fa2be96668e9253e57f2dedb29e",
+  },
+  "soil_health/crop_rotation.PNG": {
+    size_kb: 272.4,
+    md5Checksum: "31053f9fceef1a162158178971dd1aad",
+  },
+  "soil_health/erosion_1.png": {
+    size_kb: 452.5,
+    md5Checksum: "d0f2be10359afee3352c8d39390d1410",
+  },
+  "soil_health/farm_integration.PNG": {
+    size_kb: 38.7,
+    md5Checksum: "64aefab6adc634d4e934969c4e9b1b10",
+  },
+  "soil_health/fish_pond.PNG": {
+    size_kb: 49.8,
+    md5Checksum: "088fc91588c6ff78a33cfca01f9035ea",
+  },
+  "soil_health/lablab.PNG": {
+    size_kb: 63.8,
+    md5Checksum: "dd3dc5b6539888bb76ca037075365e22",
+  },
+  "soil_health/maize_lablab.PNG": {
+    size_kb: 280.5,
+    md5Checksum: "ece4dea6c0f83798ce4c63eeebc1135c",
+  },
+  "soil_health/microdosing.PNG": {
+    size_kb: 322.1,
+    md5Checksum: "452973fefa9b90d31587c780d659072b",
+  },
+  "soil_health/mucuna.PNG": {
+    size_kb: 196.2,
+    md5Checksum: "fe2256f00b641aae2c02f1d349c9efe6",
+  },
+  "soil_health/oversowing.PNG": {
+    size_kb: 133.1,
+    md5Checksum: "b62fa8e451ea2374fbbd347d9e8cf1c4",
+  },
+  "soil_health/paddocking.PNG": {
+    size_kb: 216.8,
+    md5Checksum: "f62e01e195ead17d18aba603e181bede",
+  },
+  "soil_health/paddocks_1.PNG": {
+    size_kb: 105,
+    md5Checksum: "b0bd222d2df4a2e43c3a948b0416052c",
+  },
+  "soil_health/paddocks_2.PNG": {
+    size_kb: 108.1,
+    md5Checksum: "b43f4e7442c90b0f1ea82eed5a580c2f",
+  },
+  "soil_health/poutry_goat_shed.PNG": {
+    size_kb: 170.8,
+    md5Checksum: "b0fd100d3acd0c06b67b6df3dd2bec42",
+  },
+  "soil_health/recycling.png": {
+    size_kb: 74.3,
+    md5Checksum: "0c8e5625d3cecb6a104d988832ce1e62",
+  },
+  "soil_health/sloppy_plants.PNG": {
+    size_kb: 214.5,
+    md5Checksum: "d76aacf41d33f582e77ad1dd79c8c9a6",
+  },
+  "soil_health/soil property.PNG": {
+    size_kb: 380.3,
+    md5Checksum: "c888223a9b4803335579e2783c7c0180",
+  },
+  "soil_health/soil_residue.PNG": {
+    size_kb: 206.9,
+    md5Checksum: "25ee37758491d6b4ebfc59e51728bd72",
+  },
+  "soil_health/tolerant_crops.PNG": {
+    size_kb: 452.6,
+    md5Checksum: "63fd12ac31b4bb58ec32f27edc3e41b5",
+  },
+  "soil_health/trees_wth_urine.PNG": {
+    size_kb: 57.8,
+    md5Checksum: "645604633dc31c14ad06e11e92d6dc0a",
+  },
+  "soil_health/urine.PNG": {
+    size_kb: 47,
+    md5Checksum: "4fcae4149badc487fd755ee67cfbb622",
+  },
+  "soil_health/urine_2.PNG": {
+    size_kb: 346.1,
+    md5Checksum: "c4ea5055a62aede3a58f141cab632317",
+  },
+  "soil_health/zai_holes.PNG": {
+    size_kb: 152.5,
+    md5Checksum: "8519c681741f4234b31cfd4a78ec23c5",
+  },
   "soils/annual_perennial.jpg": {
     size_kb: 9.9,
     md5Checksum: "a180d8c875da18faa2259ab48cd7c331",
@@ -6228,13 +6284,13 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 25.9,
     md5Checksum: "6e5009eb90710e2d5c4462ee336bfbba",
   },
-  "soils/healthy_soils_colour.JPG": {
-    size_kb: 28.2,
-    md5Checksum: "48100c6968f12a39db310bf7dffa9bed",
-  },
   "soils/healthy_soil_structure.jpg": {
     size_kb: 30.9,
     md5Checksum: "983c50616a46707ad492aefad6dcf8ac",
+  },
+  "soils/healthy_soils_colour.JPG": {
+    size_kb: 28.2,
+    md5Checksum: "48100c6968f12a39db310bf7dffa9bed",
   },
   "soils/high_erosion.png": {
     size_kb: 74.3,
@@ -6348,6 +6404,18 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 26.7,
     md5Checksum: "9adcd04d7a06a2a561d6eea66242c289",
   },
+  "soils/soil_animals_combined.JPG": {
+    size_kb: 47.9,
+    md5Checksum: "eb414a7e599ca3d732e62fe777acb1c4",
+  },
+  "soils/soil_residue_rodale instit.JPG": {
+    size_kb: 42.8,
+    md5Checksum: "9b0a480bc917b3277e8464ec39891d1e",
+  },
+  "soils/soil_seals_and_crusts.JPG": {
+    size_kb: 21.1,
+    md5Checksum: "1d85725307ad48483ac738187a658bd9",
+  },
   "soils/soilanimals_combined.jpg": {
     size_kb: 71,
     md5Checksum: "c76868eadaff5384ea45f837936dbd8a",
@@ -6372,18 +6440,6 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 443.8,
     md5Checksum: "485a118478e7eb311621f2461e2c1f95",
   },
-  "soils/soil_animals_combined.JPG": {
-    size_kb: 47.9,
-    md5Checksum: "eb414a7e599ca3d732e62fe777acb1c4",
-  },
-  "soils/soil_residue_rodale instit.JPG": {
-    size_kb: 42.8,
-    md5Checksum: "9b0a480bc917b3277e8464ec39891d1e",
-  },
-  "soils/soil_seals_and_crusts.JPG": {
-    size_kb: 21.1,
-    md5Checksum: "1d85725307ad48483ac738187a658bd9",
-  },
   "soils/unhealthy_soils_colour.JPG": {
     size_kb: 34.3,
     md5Checksum: "67960ce187ffd2afac052eaab5e44cfb",
@@ -6395,121 +6451,5 @@ export const ASSETS_CONTENTS_LIST = {
   "soils/well_aggregated_soil_with_residue.JPG": {
     size_kb: 40.3,
     md5Checksum: "1c42fd88fc5f6e658b8aa9e6bf0d175a",
-  },
-  "soil_health/agroforestry.PNG": {
-    size_kb: 16.5,
-    md5Checksum: "9b7f109d4a70a79071b4f1b4d8bfe67c",
-  },
-  "soil_health/animal_bedding.PNG": {
-    size_kb: 124,
-    md5Checksum: "b66a960da8de04ce6a887e2094de7d85",
-  },
-  "soil_health/Biochar.PNG": {
-    size_kb: 299.1,
-    md5Checksum: "6ec00ff2dcee0ebf7e3525a8057ec23e",
-  },
-  "soil_health/boma.PNG": {
-    size_kb: 378.8,
-    md5Checksum: "d3f348549cddd4258de0450d0c40c2b9",
-  },
-  "soil_health/calli_gliri.PNG": {
-    size_kb: 322.8,
-    md5Checksum: "3b0172e936bd63836a00b95d43f68063",
-  },
-  "soil_health/chicken_tractor.PNG": {
-    size_kb: 172.2,
-    md5Checksum: "d6923b275d2dc1aad47b37ce6e0ab37c",
-  },
-  "soil_health/cover_crop.PNG": {
-    size_kb: 54.5,
-    md5Checksum: "87c60fa2be96668e9253e57f2dedb29e",
-  },
-  "soil_health/crop_rotation.PNG": {
-    size_kb: 272.4,
-    md5Checksum: "31053f9fceef1a162158178971dd1aad",
-  },
-  "soil_health/erosion_1.png": {
-    size_kb: 452.5,
-    md5Checksum: "d0f2be10359afee3352c8d39390d1410",
-  },
-  "soil_health/farm_integration.PNG": {
-    size_kb: 38.7,
-    md5Checksum: "64aefab6adc634d4e934969c4e9b1b10",
-  },
-  "soil_health/fish_pond.PNG": {
-    size_kb: 49.8,
-    md5Checksum: "088fc91588c6ff78a33cfca01f9035ea",
-  },
-  "soil_health/lablab.PNG": {
-    size_kb: 63.8,
-    md5Checksum: "dd3dc5b6539888bb76ca037075365e22",
-  },
-  "soil_health/maize_lablab.PNG": {
-    size_kb: 280.5,
-    md5Checksum: "ece4dea6c0f83798ce4c63eeebc1135c",
-  },
-  "soil_health/microdosing.PNG": {
-    size_kb: 322.1,
-    md5Checksum: "452973fefa9b90d31587c780d659072b",
-  },
-  "soil_health/mucuna.PNG": {
-    size_kb: 196.2,
-    md5Checksum: "fe2256f00b641aae2c02f1d349c9efe6",
-  },
-  "soil_health/oversowing.PNG": {
-    size_kb: 133.1,
-    md5Checksum: "b62fa8e451ea2374fbbd347d9e8cf1c4",
-  },
-  "soil_health/paddocking.PNG": {
-    size_kb: 216.8,
-    md5Checksum: "f62e01e195ead17d18aba603e181bede",
-  },
-  "soil_health/paddocks_1.PNG": {
-    size_kb: 105,
-    md5Checksum: "b0bd222d2df4a2e43c3a948b0416052c",
-  },
-  "soil_health/paddocks_2.PNG": {
-    size_kb: 108.1,
-    md5Checksum: "b43f4e7442c90b0f1ea82eed5a580c2f",
-  },
-  "soil_health/poutry_goat_shed.PNG": {
-    size_kb: 170.8,
-    md5Checksum: "b0fd100d3acd0c06b67b6df3dd2bec42",
-  },
-  "soil_health/recycling.png": {
-    size_kb: 74.3,
-    md5Checksum: "0c8e5625d3cecb6a104d988832ce1e62",
-  },
-  "soil_health/sloppy_plants.PNG": {
-    size_kb: 214.5,
-    md5Checksum: "d76aacf41d33f582e77ad1dd79c8c9a6",
-  },
-  "soil_health/soil property.PNG": {
-    size_kb: 380.3,
-    md5Checksum: "c888223a9b4803335579e2783c7c0180",
-  },
-  "soil_health/soil_residue.PNG": {
-    size_kb: 206.9,
-    md5Checksum: "25ee37758491d6b4ebfc59e51728bd72",
-  },
-  "soil_health/tolerant_crops.PNG": {
-    size_kb: 452.6,
-    md5Checksum: "63fd12ac31b4bb58ec32f27edc3e41b5",
-  },
-  "soil_health/trees_wth_urine.PNG": {
-    size_kb: 57.8,
-    md5Checksum: "645604633dc31c14ad06e11e92d6dc0a",
-  },
-  "soil_health/urine.PNG": {
-    size_kb: 47,
-    md5Checksum: "4fcae4149badc487fd755ee67cfbb622",
-  },
-  "soil_health/urine_2.PNG": {
-    size_kb: 346.1,
-    md5Checksum: "c4ea5055a62aede3a58f141cab632317",
-  },
-  "soil_health/zai_holes.PNG": {
-    size_kb: 152.5,
-    md5Checksum: "8519c681741f4234b31cfd4a78ec23c5",
   },
 };

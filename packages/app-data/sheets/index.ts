@@ -961,12 +961,12 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
     soil_prac_acts: {
       flow_type: "template",
       flow_name: "soil_prac_acts",
-      _xlsxPath: "templates/global/soil_navigation.xlsx",
+      _xlsxPath: "templates/global/soil_navigation_draft.xlsx",
     },
     soil_principle: {
       flow_type: "template",
       flow_name: "soil_principle",
-      _xlsxPath: "templates/global/soil_navigation.xlsx",
+      _xlsxPath: "templates/global/soil_navigation_draft.xlsx",
     },
     soils_screen: {
       flow_type: "template",
@@ -999,7 +999,7 @@ export const SHEETS_CONTENT_LIST: ISheetContents = {
     home_screen_tour: {
       flow_type: "tour",
       flow_name: "home_screen_tour",
-      _xlsxPath: "tours/global/home_screen_tour.xlsx",
+      _xlsxPath: "tours/global/navigation_tours.xlsx",
     },
   },
   data_pipe: {},

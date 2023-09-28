@@ -28,7 +28,7 @@
       "_translations": {
         "message_text": {}
       },
-      "template_component_name": "dg_highlighted_module",
+      "template_component_name": "dg_module_highlighted",
       "route": "template/home_screen"
     },
     {
@@ -37,9 +37,9 @@
       "_translations": {
         "message_text": {}
       },
-      "template_component_name": "dg_highlighted_module",
+      "template_component_name": "dg_module",
       "route": "template/home_screen"
     }
   ],
-  "_xlsxPath": "tours/global/home_screen_tour.xlsx"
+  "_xlsxPath": "tours/global/navigation_tours.xlsx"
 }

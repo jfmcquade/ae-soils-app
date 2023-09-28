@@ -7,92 +7,92 @@
     {
       "id": "p01",
       "name": "0th Percentile",
-      "weight_description": "should worry [add description]",
-      "height_description": "should worry [add description]"
+      "weight_description": "You should be worried.\nEnsure your child has a balanced diet with adequate 'Go', 'Grow', and 'Glow' foods for overall health to achieve the standard weight.",
+      "height_description": "You should be worried.\nYour child needs to eat a more diverse diet especially more grow and glow foods to achieve the standard height."
     },
     {
       "id": "p1",
       "name": "1st Percentile",
-      "weight_description": "should worry [add description]",
-      "height_description": "should worry [add description]"
+      "weight_description": "You should be worried.\nEnsure your child has a balanced diet with adequate 'Go', 'Grow', and 'Glow' foods for overall health to achieve the standard weight.",
+      "height_description": "You should be worried.\nYour child needs to eat a more diverse diet especially more grow and glow foods to achieve the standard height."
     },
     {
       "id": "p3",
       "name": "3rd Percentile",
-      "weight_description": "should worry [add description]",
-      "height_description": "should worry [add description]"
+      "weight_description": "You should be worried.\nEnsure your child has a balanced diet with adequate 'Go', 'Grow', and 'Glow' foods for overall health to achieve the standard weight.",
+      "height_description": "You should be worried.\nYour child needs to eat a more diverse diet especially more grow and glow foods to achieve the standard height."
     },
     {
       "id": "p5",
       "name": "5th Percentile",
-      "weight_description": "should worry [add description]",
-      "height_description": "should worry [add description]"
+      "weight_description": "You should be worried.\nEnsure your child has a balanced diet with adequate 'Go', 'Grow', and 'Glow' foods for overall health to achieve the standard weight.",
+      "height_description": "You should be worried.\nYour child needs to eat a more diverse diet especially more grow and glow foods to achieve the standard height."
     },
     {
       "id": "p10",
       "name": "10th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p15",
       "name": "15th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p25",
       "name": "25th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p50",
       "name": "50th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p75",
       "name": "75th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p85",
       "name": "85th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p90",
       "name": "90th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p95",
       "name": "95th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p97",
       "name": "97th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p99",
       "name": "99th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     },
     {
       "id": "p999",
       "name": "999th Percentile",
-      "weight_description": "not problematic [add description]",
-      "height_description": "not problematic [add description]"
+      "weight_description": "This is a normal weight range and not problematic. \nMake sure their diet includes a variety of 'Go,' 'Grow,' and 'Glow' foods to support their energy, growth, and overall health.",
+      "height_description": "This is a normal height range and not problematic. \nMake sure they have a balanced diet for their well-being."
     }
   ],
   "_xlsxPath": "data_lists/nutrition/nutrition_data_lists.xlsx"

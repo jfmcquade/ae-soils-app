@@ -23,8 +23,8 @@
     },
     {
       "id": "calculator_section",
-      "heading": "Nutrients & Calculators",
-      "description": "Nutrients & Calculators",
+      "heading": "Nutrients & Child Growth Tracker",
+      "description": "* Nutrients are essential components of food and beverages that our bodies require to function properly and maintain good health.\n* Child Growth Tracker will help you keep track of and monitor your children's growth, specifically in terms of their height and weight.",
       "template": "nutrients_calculator_screen",
       "priniciple_1": "principle_culture",
       "priniciple_2": "principle_resilience"
