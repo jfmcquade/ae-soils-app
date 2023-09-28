@@ -12,11 +12,49 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Height Weight Calculator",
+      "value": "Child Growth Tracker",
       "_translations": {
         "value": {}
       },
       "_nested_name": "title"
+    },
+    {
+      "type": "carousel",
+      "parameter_list": {
+        "centred_slides": "true",
+        "centre_first_and_last": "false"
+      },
+      "rows": [
+        {
+          "type": "image",
+          "name": "image_1",
+          "value": "nutrition/food_for_children.jpg",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_1"
+        },
+        {
+          "type": "image",
+          "name": "image_2",
+          "value": "nutrition/standard_heights_weights.jpg",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "carousel.image_2"
+        }
+      ],
+      "name": "carousel",
+      "_nested_name": "carousel"
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "value": "When children fall below the healthy range for nutrition, it can result in stunted growth and developmental challenges that can impact their overall well-being.\nLet's evaluate how well our kids are progressing.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "description"
     },
     {
       "type": "text",
@@ -102,8 +140,7 @@
       ],
       "parameter_list": {
         "min": "0",
-        "max": "11",
-        "step": "1"
+        "max": "11"
       },
       "_nested_name": "slider_months",
       "_dynamicFields": {

@@ -5,7 +5,18 @@
   "rows": [
     {
       "type": "step",
-      "title": "Pests",
+      "title": "Soil Health",
+      "_translations": {
+        "title": {},
+        "message_text": {}
+      },
+      "message_text": "Healthy soil is the foundation of productive and sustainable food production. Learn here about the principles of soil health and usable best practices.",
+      "template_component_name": "tile_soils",
+      "route": "template/topics_screen"
+    },
+    {
+      "type": "step",
+      "title": "Pest Control",
       "_translations": {
         "title": {},
         "message_text": {}
@@ -23,17 +34,6 @@
       },
       "message_text": "Nutrition is a critical part of health and development. Explore this category to learn more about the different food types and nutrients that are necessary for you and your family.",
       "template_component_name": "tile_nutrition",
-      "route": "template/topics_screen"
-    },
-    {
-      "type": "step",
-      "title": "Soil Health",
-      "_translations": {
-        "title": {},
-        "message_text": {}
-      },
-      "message_text": "Healthy soil is the foundation of productive and sustainable food production. Learn here about the principles of soil health and usable best practices.",
-      "template_component_name": "tile_soils",
       "route": "template/topics_screen"
     }
   ],

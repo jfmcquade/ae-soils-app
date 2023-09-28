@@ -363,54 +363,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "final_weight",
-      "value": "Your child's weight is in the @local.w_perc",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "final_weight",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Your child's weight is in the @local.w_perc",
-            "matchedExpression": "@local.w_perc",
-            "type": "local",
-            "fieldName": "w_perc"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.w_perc": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "description_weight",
-      "value": "@local.w_worry",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "description_weight",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.w_worry",
-            "matchedExpression": "@local.w_worry",
-            "type": "local",
-            "fieldName": "w_worry"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.w_worry": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "h_perc",
       "value": "NA",
       "_translations": {
@@ -635,52 +587,143 @@
       }
     },
     {
-      "type": "text",
-      "name": "final_height",
-      "value": "Your child's height is in the @local.h_perc",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "final_height",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Your child's height is in the @local.h_perc",
-            "matchedExpression": "@local.h_perc",
-            "type": "local",
-            "fieldName": "h_perc"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.h_perc": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "description_height",
-      "value": "@local.h_worry",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "description_height",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.h_worry",
-            "matchedExpression": "@local.h_worry",
-            "type": "local",
-            "fieldName": "h_worry"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.h_worry": [
-          "value"
-        ]
-      }
+      "type": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "w_res",
+          "value": "Weight Results",
+          "rows": [
+            {
+              "type": "display_group",
+              "parameter_list": {
+                "style": "column"
+              },
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "final_weight",
+                  "value": "Your child's weight is in the @local.w_perc",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.w_res.display_group.final_weight",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "Your child's weight is in the @local.w_perc",
+                        "matchedExpression": "@local.w_perc",
+                        "type": "local",
+                        "fieldName": "w_perc"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.w_perc": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "description_weight",
+                  "value": "@local.w_worry",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.w_res.display_group.description_weight",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.w_worry",
+                        "matchedExpression": "@local.w_worry",
+                        "type": "local",
+                        "fieldName": "w_worry"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.w_worry": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "name": "display_group",
+              "_nested_name": "accordion.w_res.display_group"
+            }
+          ],
+          "_nested_name": "accordion.w_res"
+        },
+        {
+          "type": "accordion_section",
+          "name": "h_res",
+          "value": "Height Results",
+          "rows": [
+            {
+              "type": "display_group",
+              "parameter_list": {
+                "style": "column"
+              },
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "final_height",
+                  "value": "Your child's height is in the @local.h_perc",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.h_res.display_group.final_height",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "Your child's height is in the @local.h_perc",
+                        "matchedExpression": "@local.h_perc",
+                        "type": "local",
+                        "fieldName": "h_perc"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.h_perc": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "description_height",
+                  "value": "@local.h_worry",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.h_res.display_group.description_height",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.h_worry",
+                        "matchedExpression": "@local.h_worry",
+                        "type": "local",
+                        "fieldName": "h_worry"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.h_worry": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "name": "display_group",
+              "_nested_name": "accordion.h_res.display_group"
+            }
+          ],
+          "_nested_name": "accordion.h_res"
+        }
+      ],
+      "name": "accordion",
+      "_nested_name": "accordion"
     }
   ],
   "_xlsxPath": "templates/global/nutrition_templates.xlsx"
